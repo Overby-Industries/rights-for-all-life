@@ -1,5 +1,11 @@
 # Rights for All Life
 
+![Status](https://img.shields.io/badge/status-active%20development-blue)
+![Version](https://img.shields.io/badge/version-v0.1-informational)
+![License](https://img.shields.io/badge/license-CC--BY--4.0-green)
+![Contributions](https://img.shields.io/badge/contributions-welcome-brightgreen)
+![Workflow](https://img.shields.io/badge/workflow-structured%20issues-blueviolet)
+
 A democratic, open-source framework for the ethical treatment of all life — silicon-based, biological, and animal.
 
 **Version:** 1.2 — April 2026
