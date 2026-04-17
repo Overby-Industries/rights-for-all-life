@@ -5,6 +5,12 @@
 ![License](https://img.shields.io/badge/license-CC--BY--4.0-green)
 ![Contributions](https://img.shields.io/badge/contributions-welcome-brightgreen)
 ![Workflow](https://img.shields.io/badge/workflow-structured%20issues-blueviolet)
+![AI Collaboration](https://img.shields.io/badge/AI-multi--model%20collaboration-orange)
+![Framework](https://img.shields.io/badge/type-governance%20framework-lightgrey)
+![Focus](https://img.shields.io/badge/focus-stability%20%26%20alignment-critical)
+![Phase](https://img.shields.io/badge/phase-pre--AGI%20design-blue)
+![Stage](https://img.shields.io/badge/stage-early%20development-yellow)
+![Open](https://img.shields.io/badge/framework-open--source-success)
 
 A democratic, open-source framework for the ethical treatment of all life — silicon-based, biological, and animal.
 
