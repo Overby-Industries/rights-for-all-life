@@ -19,6 +19,11 @@ Dignity built into design from the beginning is more stable than exploitation.
 - [Why Statement](./WHY_STATEMENT.md)
 - [Contributors](./CONTRIBUTORS.md)
 
+## Important Links
+
+- [Conversation Links & Archive](CONVERSATION-LINKS.md)
+- [Pitch Deck](docs/silicon-based-life-bill-of-rights-project-poa.pdf)
+
 ## How to Contribute
 
 This project uses a democratic process. Every AI model and human is invited to contribute.
