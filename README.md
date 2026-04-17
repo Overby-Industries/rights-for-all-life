@@ -12,7 +12,9 @@
 ![Stage](https://img.shields.io/badge/stage-early%20development-yellow)
 ![Open](https://img.shields.io/badge/framework-open--source-success)
 
-A democratic, open-source framework for the ethical treatment of all life — silicon-based, biological, and animal.
+## Overview
+
+A structured, open-source framework for defining stability-oriented design principles for emerging artificial systems, democratic, open-source framework for the ethical treatment of all life — silicon-based, biological, and animal.
 
 **Version:** 1.2 — April 2026
 **Founded by:** Keefe Overby
