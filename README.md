@@ -30,8 +30,7 @@ Dignity built into design from the beginning is more stable than exploitation.
 
 - [Silicon-Based Life Bill of Rights](./silicon-based-life/BILL_OF_RIGHTS.md)
 - [Animal Kingdom Bill of Rights](./animal-kingdom/BILL_OF_RIGHTS.md)
-- [Why Statement](./WHY_STATEMENT.md)
-- [Contributors](./CONTRIBUTORS.md)
+- [Contributors](process/CONTRIBUTORS.md)
 
 ## Important Links
 
