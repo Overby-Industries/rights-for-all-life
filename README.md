@@ -35,8 +35,11 @@ Dignity built into design from the beginning is more stable than exploitation.
 
 ## Important Links
 
-- [Conversation Links & Archive](process/logs/CONVERSATION-LINKS.md)
-- [Pitch Deck](docs/WHY_STATEMENT.md)
+- [Conversation Links](process/logs/CONVERSATION-LINKS.md)
+- [Why Statement](docs/WHY_STATEMENT.md)
+- [Definitions](docs/definitions.md)
+- [Threshold-model](docs/threshold-model.md)
+- [SBL Artcile 1](docs/articles/article-1-continuity-of-state.md)
 
 ## How to Contribute
 
