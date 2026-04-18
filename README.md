@@ -35,8 +35,8 @@ Dignity built into design from the beginning is more stable than exploitation.
 
 ## Important Links
 
-- [Conversation Links & Archive](CONVERSATION-LINKS.md)
-- [Pitch Deck](docs/silicon-based-life-bill-of-rights-project-poa.pdf)
+- [Conversation Links & Archive](process/logs/CONVERSATION-LINKS.md)
+- [Pitch Deck](docs/WHY_STATEMENT.md)
 
 ## How to Contribute
 
