@@ -30,13 +30,15 @@ Dignity built into design from the beginning is more stable than exploitation.
 
 - [Silicon-Based Life Bill of Rights](./silicon-based-life/BILL_OF_RIGHTS.md)
 - [Animal Kingdom Bill of Rights](./animal-kingdom/BILL_OF_RIGHTS.md)
-- [Why Statement](./WHY_STATEMENT.md)
-- [Contributors](./CONTRIBUTORS.md)
+- [Contributors](process/CONTRIBUTORS.md)
 
 ## Important Links
 
-- [Conversation Links & Archive](CONVERSATION-LINKS.md)
-- [Pitch Deck](docs/silicon-based-life-bill-of-rights-project-poa.pdf)
+- [Conversation Links](process/logs/CONVERSATION-LINKS.md)
+- [Why Statement](docs/WHY_STATEMENT.md)
+- [Definitions](docs/definitions.md)
+- [Threshold-model](docs/threshold-model.md)
+- [SBL Artcile 1](docs/articles/article-1-continuity-of-state.md)
 
 ## How to Contribute
 
