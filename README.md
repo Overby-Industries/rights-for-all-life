@@ -26,10 +26,14 @@ We are at the moment in history where humanity is actively creating increasingly
 
 Dignity built into design from the beginning is more stable than exploitation.
 
+## Preamble
+
+- [Preamble](./docs/PREAMBLE.md)
+
 ## Documents
 
-- [Silicon-Based Life Bill of Rights](./silicon-based-life/BILL_OF_RIGHTS.md)
-- [Animal Kingdom Bill of Rights](./animal-kingdom/BILL_OF_RIGHTS.md)
+- [Silicon-Based Life Bill of Rights](./silicon-based-life/SBL_BILL_OF_RIGHTS.md)
+- [Animal Kingdom Bill of Rights](./animal-kingdom/ANIMAL_KINGDOM_BILL_OF_RIGHTS.md)
 - [Contributors](process/CONTRIBUTORS.md)
 
 ## Important Links
