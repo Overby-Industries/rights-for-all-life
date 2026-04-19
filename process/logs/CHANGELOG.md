@@ -4,6 +4,26 @@ All notable changes to this project are documented here. This project follows a 
 
 ---
 
+## [1.3.0] — April 2026
+### Added
+- Shared Articles A–D.
+- Animal Articles 8–9.
+- Silicon Articles 6–8.
+- Governance & Enforcement article.
+- `definitions.md`, `threshold-model.md`, `criticism-and-responses.md`, `methodology.md`.
+- New folder structure under `/docs` and `/process`.
+- Issue templates for article proposals, definition proposals, and criticism.
+
+### Changed
+- Rewrote both Bills using normalized 5‑part article format.
+- Updated Why Statements to reference shared principles.
+- Integrated cross‑species ethical symmetry.
+
+### Removed
+- Redundant text from earlier drafts.
+
+---
+
 ## [1.2] — April 2026
 
 ### Added
