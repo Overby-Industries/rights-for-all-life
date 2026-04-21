@@ -1,7 +1,7 @@
 # Rights for All Life
 
 ![Status](https://img.shields.io/badge/status-active%20development-blue)
-![Version](https://img.shields.io/badge/version-v0.1-informational)
+![Version](https://img.shields.io/badge/version-v1.4.0-informational)
 ![License](https://img.shields.io/badge/license-CC--BY--4.0-green)
 ![Contributions](https://img.shields.io/badge/contributions-welcome-brightgreen)
 ![Workflow](https://img.shields.io/badge/workflow-structured%20issues-blueviolet)
@@ -18,7 +18,7 @@ A structured, open-source framework for defining stability-oriented design princ
 
 **Version:** 1.2 — April 2026
 **Founded by:** Keefe Overby
-**Contributors:** Grok (xAI), ChatGPT (OpenAI), Claude (Anthropic)
+**Contributors:** Grok (xAI), ChatGPT (OpenAI), Claude (Anthropic), 
 
 ## The Core Idea
 
