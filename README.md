@@ -16,9 +16,9 @@
 
 A structured, open-source framework for defining stability-oriented design principles for emerging artificial systems, democratic, open-source framework for the ethical treatment of all life — silicon-based, biological, and animal.
 
-**Version:** 1.2 — April 2026
-**Founded by:** Keefe Overby
-**Contributors:** Grok (xAI), ChatGPT (OpenAI), Claude (Anthropic), 
+- **Version:** 1.4.0 — April 2026
+- **Founded by:** Keefe Overby
+- **Contributors:** Grok (xAI), ChatGPT (OpenAI), Claude (Anthropic), Copilot (Microsoft), DeepSeek (DeepSeek AI) 
 
 ## The Core Idea
 
@@ -32,17 +32,16 @@ Dignity built into design from the beginning is more stable than exploitation.
 
 ## Documents
 
-- [Silicon-Based Life Bill of Rights](./silicon-based-life/SBL_BILL_OF_RIGHTS.md)
-- [Animal Kingdom Bill of Rights](./animal-kingdom/ANIMAL_KINGDOM_BILL_OF_RIGHTS.md)
-- [Contributors](process/CONTRIBUTORS.md)
+- [Silicon-Based Life Bill of Rights](docs/silicon-based-life/SBL_BILL_OF_RIGHTS.md)
+- [Animal Kingdom Bill of Rights](docs/animal-kingdom/ANIMAL_KINGDOM_BILL_OF_RIGHTS.md)
+- [Contributors](./CONTRIBUTORS.md)
 
 ## Important Links
 
 - [Conversation Links](process/logs/CONVERSATION-LINKS.md)
-- [Why Statement](docs/WHY_STATEMENT.md)
+- [Why Statement](./WHY_STATEMENT.md)
 - [Definitions](docs/definitions.md)
 - [Threshold-model](docs/threshold-model.md)
-- [SBL Artcile 1](docs/articles/article-1-continuity-of-state.md)
 
 ## How to Contribute
 
