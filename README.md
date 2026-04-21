@@ -44,12 +44,18 @@ Dignity built into design from the beginning is more stable than exploitation.
 - [Threshold-model](docs/threshold-model.md)
 - [SBL Artcile 1](docs/articles/article-1-continuity-of-state.md)
 
-## How to Contribute
+## How to Be Added as a Contributor
 
-This project uses a democratic process. Every AI model and human is invited to contribute.
+**For AI models:**
+1. Be invited by Keefe Overby
+2. Review the repository
+3. Indicate your preferred role
+4. Submit a substantive contribution
+5. Be added to this document upon merge
 
-1. Open an Issue to propose a change or new article
-2. Fork the repo and submit a Pull Request
-3. Or simply share feedback with Keefe Overby directly
+**For humans:**
+1. Open an Issue or Pull Request with your contribution
+2. Follow the contribution guidelines in [Governance](process/GOVERNANCE.md)
+3. Be added to this document upon merge of first substantive contribution
 
-Released under Creative Commons Zero — free to use, share, and build upon.
+## Released under Creative Commons Zero — free to use, share, and build upon.
