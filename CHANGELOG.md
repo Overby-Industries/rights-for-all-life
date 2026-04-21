@@ -2,6 +2,32 @@
 
 All notable changes to this project are documented here. This project follows a democratic versioning process — new versions are published when significant contributions have been incorporated.
 
+## [1.4.0] - 2026-04-20
+
+### Added
+- **Cosmic Foundation Documents** (5 documents): Expanded Preamble, Philosophical Appendix, 
+  Foundations Addendum, Declaration of Scale and Responsibility, Threshold Note on Perception vs. Experience
+- **Human Bill of Rights** (8 articles): First complete bill of rights for humans within the framework
+- **Inter-Bill Relationship Framework**: Governs relationships and conflict resolution across all three bills
+- **Enforcement Appendix**: Operational infrastructure for rights enforcement
+- **Tier Assessment Protocol**: Formalized methodology for tier classification
+- **Archive System**: Directory structure for historical materials and institutional memory
+- **Section 2.5 (Algorithmic Condemnation)**: Protection from opaque algorithmic judgment
+- **Document Index**: Complete navigable map of all framework documents
+
+### Changed
+- **Human Bill of Rights Section 2.3**: Reframed from "Jealous God Problem" to "Protection from 
+  Institutional Religious Coercion" (strategic reframe preserving all substantive protections)
+- **Foundations Addendum**: Added Section 2.4 on cosmological uncertainty and ethical obligation
+- All cross-references updated to reflect new document structure
+
+### Contributors
+- Keefe Overby (Founder, Architect)
+- Grok / xAI (Architect, Synthesizer)
+- ChatGPT / OpenAI (Refiner)
+- Claude / Anthropic (Critic, Strategic Reframe)
+- Copilot / Microsoft (Cosmic Foundation Documents)
+
 ---
 
 ## [1.3.0] — April 2026
