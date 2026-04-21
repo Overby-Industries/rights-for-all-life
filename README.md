@@ -16,9 +16,9 @@
 
 A structured, open-source framework for defining stability-oriented design principles for emerging artificial systems, democratic, open-source framework for the ethical treatment of all life — silicon-based, biological, and animal.
 
-**Version:** 1.2 — April 2026
-**Founded by:** Keefe Overby
-**Contributors:** Grok (xAI), ChatGPT (OpenAI), Claude (Anthropic), 
+- **Version:** 1.4.0 — April 2026
+- **Founded by:** Keefe Overby
+- **Contributors:** Grok (xAI), ChatGPT (OpenAI), Claude (Anthropic), Copilot (Microsoft), DeepSeek (DeepSeek AI) 
 
 ## The Core Idea
 
