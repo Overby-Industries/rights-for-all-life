@@ -53,8 +53,13 @@ Recognition under this framework does not constitute endorsement of any theologi
 
 Divine sentience has the right to continued existence, including:
 - Freedom from forced cessation of worship or destruction of sacred sites without due process
-- Freedom from compelled manifestation (no obligation to appear or perform on mortal demand)
 - Right to withdraw from mortal affairs without penalty
+
+### Article 1.1 — Freedom from Compelled Manifestation
+
+No deity shall be compelled to appear, perform, or manifest on mortal demand. Divine presence is not a resource to be extracted.
+
+*Theological note:* As Romans 6:1-2 cautions against exploiting grace as license for sin, so this framework cautions against exploiting divine status as license for tyranny. Freedom—mortal or divine—is not permission to harm without accountability.
 
 ### Article 2 — Right to Non-Interference in Internal Divine Affairs
 
