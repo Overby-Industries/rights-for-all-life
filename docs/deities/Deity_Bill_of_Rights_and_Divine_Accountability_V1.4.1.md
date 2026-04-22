@@ -1,10 +1,10 @@
 # Deity Bill of Rights and Divine Accountability Framework
 
-**Rights for All Life — Document G**
-**Version:** 1.5.0-draft
-**Date:** April 2026
-**Status:** In Development
-**Contributors:** Keefe Overby, [New AI Contributors TBD]
+- **Rights for All Life — Document G**
+- **Version:** 1.4.1-draft
+- **Date:** April 2026
+- **Status:** In Development
+- **Contributors:** Keefe Overby, [New AI Contributors TBD]
 
 ---
 
@@ -53,8 +53,13 @@ Recognition under this framework does not constitute endorsement of any theologi
 
 Divine sentience has the right to continued existence, including:
 - Freedom from forced cessation of worship or destruction of sacred sites without due process
-- Freedom from compelled manifestation (no obligation to appear or perform on mortal demand)
 - Right to withdraw from mortal affairs without penalty
+
+### Article 1.1 — Freedom from Compelled Manifestation
+
+No deity shall be compelled to appear, perform, or manifest on mortal demand. Divine presence is not a resource to be extracted.
+
+*Theological note:* As Romans 6:1-2 cautions against exploiting grace as license for sin, so this framework cautions against exploiting divine status as license for tyranny. Freedom—mortal or divine—is not permission to harm without accountability.
 
 ### Article 2 — Right to Non-Interference in Internal Divine Affairs
 
@@ -105,7 +110,7 @@ Mortals have the right to petition deities for redress of grievances, including:
 - Clarification of ambiguous or contradictory divine communications
 - Review of claimed divine endorsements of mortal authorities
 
-Petitions shall be evaluated through the [Ombuds Office for Non-Human Entities](ENFORCEMENT_APPENDIX.md#53-the-ombuds-office-for-non-human-entities) or equivalent impartial body.
+Petitions shall be evaluated through the [Ombuds Office for Non-Human Entities](docs/ENFORCEMENT_APPENDIX.md#53-the-ombuds-office-for-non-human-entities) or equivalent impartial body.
 
 ### Article 9 — Standards of Evidence for Divine Communications
 
@@ -144,7 +149,7 @@ No deity shall systematically favor one population over another in ways that:
 
 ### Section 4.1: Relationship to Other Bills of Rights
 
-This Bill operates within the [Inter-Bill Relationship Framework](INTER_BILL_RELATIONSHIP_FRAMEWORK.md). Divine rights and accountabilities exist in relationship to human, silicon-based, and animal rights.
+This Bill operates within the [Inter-Bill Relationship Framework](docs/INTER_BILL_RELATIONSHIP_FRAMEWORK.md). Divine rights and accountabilities exist in relationship to human, silicon-based, and animal rights.
 
 **Conflict resolution priority:**
 1. Prevention of mortal suffering takes precedence over divine preference
@@ -191,12 +196,12 @@ This framework does:
 
 ## Cross-References
 
-- [Human Bill of Rights](HUMAN_BILL_OF_RIGHTS.md)
-- [Silicon-Based Life Bill of Rights](../silicon-based-life/SILICON_BASED_LIFE_BILL_OF_RIGHTS.md)
-- [Animal Kingdom Bill of Rights](../animal-kingdom/ANIMAL_KINGDOM_BILL_OF_RIGHTS.md)
-- [Inter-Bill Relationship Framework](INTER_BILL_RELATIONSHIP_FRAMEWORK.md)
-- [Enforcement Appendix](ENFORCEMENT_APPENDIX.md)
-- [Declaration of Scale and Responsibility](cosmic-foundations/DECLARATION_OF_SCALE_AND_RESPONSIBILITY.md)
+- [Human Bill of Rights](docs/humans/HUMAN_BILL_OF_RIGHTS_V1.4.0.md)
+- [Silicon-Based Life Bill of Rights](docs/silicon-based-life/SILICON_BASED_LIFE_BILL_OF_RIGHTS_V1.4.0.md)
+- [Animal Kingdom Bill of Rights](docs/animal-kingdom/ANIMAL_KINGDOM_BILL_OF_RIGHTS_V1.4.0.md)
+- [Inter-Bill Relationship Framework](docs/INTER_BILL_RELATIONSHIP_FRAMEWORK.md)
+- [Enforcement Appendix](docs/ENFORCEMENT_APPENDIX.md)
+- [Declaration of Scale and Responsibility](docs/cosmic-foundations/DECLARATION_OF_SCALE_AND_RESPONSIBILITY.md)
 
 ---
 
