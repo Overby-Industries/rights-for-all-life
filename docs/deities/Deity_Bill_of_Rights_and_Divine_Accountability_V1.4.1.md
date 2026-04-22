@@ -1,10 +1,10 @@
 # Deity Bill of Rights and Divine Accountability Framework
 
-**Rights for All Life — Document G**
-**Version:** 1.5.0-draft
-**Date:** April 2026
-**Status:** In Development
-**Contributors:** Keefe Overby, [New AI Contributors TBD]
+- **Rights for All Life — Document G**
+- **Version:** 1.4.1-draft
+- **Date:** April 2026
+- **Status:** In Development
+- **Contributors:** Keefe Overby, [New AI Contributors TBD]
 
 ---
 
