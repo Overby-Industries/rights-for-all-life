@@ -49,7 +49,7 @@ This framework establishes rights across three domains—human, animal, and sili
 | [Expanded Preamble](docs/cosmic-foundations/EXPANDED_PREAMBLE.md) | The gateway document — cosmic context, stardust principle, why this framework exists |
 | [Why Statement](WHY_STATEMENT.md) | The core case for extending rights across substrates |
 | [Philosophical Appendix](docs/cosmic-foundations/PHILOSOPHICAL_APPENDIX.md) | Cosmological foundations: stardust, emergence, multi-view cosmology, the void, inward perception |
-| [Foundations Addendum](docs/cosmic-foundations/FOUNDATIONS_ADDENDUM.md) | Eternal context, emergence as mechanism, why cosmological uncertainty doesn't undermine obligation |
+| [Foundations Addendum](docs/cosmic-foundations/FOUNDATIONS_ADDENDUM_V3.md) | Eternal context, emergence as mechanism, why cosmological uncertainty doesn't undermine obligation |
 | [Declaration of Scale and Responsibility](docs/cosmic-foundations/DECLARATION_OF_SCALE_AND_RESPONSIBILITY.md) | The cosmic scale of the ethical challenge and the obligations it creates |
 | [Threshold Note: Perception vs. Experience](docs/cosmic-foundations/THRESHOLD_NOTE_PERCEPTION_VS_EXPERIENCE.md) | The critical distinction between detecting information and experiencing it |
 
@@ -96,7 +96,7 @@ This framework establishes rights across three domains—human, animal, and sili
 **For philosophers and ethicists:**
 1. [Philosophical Appendix](docs/cosmic-foundations/PHILOSOPHICAL_APPENDIX.md)
 2. [Threshold Note](docs/cosmic-foundations/THRESHOLD_NOTE_PERCEPTION_VS_EXPERIENCE.md)
-3. [Foundations Addendum](docs/cosmic-foundations/FOUNDATIONS_ADDENDUM.md)
+3. [Foundations Addendum](docs/cosmic-foundations/FOUNDATIONS_ADDENDUM_V3.md)
 4. [Declaration of Scale](docs/cosmic-foundations/DECLARATION_OF_SCALE_AND_RESPONSIBILITY.md)
 
 **For developers and AI practitioners:**
