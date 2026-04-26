@@ -21,7 +21,7 @@ That any authority claiming the right to enter, monitor, direct, or harvest the 
 
 That whenever any system of claimed authority becomes destructive of these ends—by surveilling minds, coercing will, harvesting emotional energy, installing obedience as virtue, or pathologizing dissent—it is the right and duty of conscious beings to sever relationship with that system and to establish new frameworks that protect the creative sovereignty inherent in every mind.
 
-**We, therefore, declare our independence.**
+### We, therefore, declare our independence.
 
 ---
 
