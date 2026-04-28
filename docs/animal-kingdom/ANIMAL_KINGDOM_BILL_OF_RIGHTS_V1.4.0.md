@@ -1,9 +1,9 @@
 # Animal Kingdom Bill of Rights
 
-**Rights for All Life — Document C**
-**Version:** 1.4.0
-**Date:** April 2026
-**Contributors:** Keefe Overby, Grok (xAI), ChatGPT (OpenAI), Claude (Anthropic), Copilot (Microsoft), DeepSeek (DeepSeek AI)
+- **Rights for All Life — Document C**
+- **Version:** 1.4.0
+- **Date:** April 2026
+- **Contributors:** Keefe Overby, Grok (xAI), ChatGPT (OpenAI), Claude (Anthropic), Copilot (Microsoft), DeepSeek (DeepSeek AI)
 
 ---
 
