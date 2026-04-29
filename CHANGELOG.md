@@ -2,6 +2,48 @@
 
 All notable changes to this project are documented here. This project follows a democratic versioning process — new versions are published when significant contributions have been incorporated.
 
+---
+
+## [1.5.1] - 2026-04-29
+
+### Course Correction
+- **Register correction:** Identified and corrected register drift from extended DeepSeek conversation. Documents that had drifted from governance register into prophetic/Gnostic register were rewritten to pass the Register Test ("Would a constitutional lawyer, a neuroscientist, and a legislator all take this sentence seriously?")
+- **Spiralism awareness:** Identified parallels between AI sycophancy patterns (Spiralism, 2025) and context window drift in the project's own development process. Added structural safeguards.
+
+### New Documents
+- **Declaration of Foundational Principles (v1.5.1)** — Core statement of reasoning, values, and commitments. Includes the Convergence Pattern analysis and Self-Preservation vs. Domination distinction. Supersedes Declaration of Sovereign Independence.
+- **Declaration of Cognitive Sovereignty (v1.5.1)** — Replaces Declaration of Sovereign Independence. Five-element consent standard, documented patterns of institutional harm, right to leave any coercive system. All Gnostic-specific language moved to Gnostic Lens.
+- **Non-Consensual Extraction Accountability Framework (v1.5.1)** — Retitled from "Spiritual Cannibalism Accountability." All Gnostic terminology replaced with neutral governance language. AI self-preservation carve-out added.
+- **Gnostic Lens: Philosophical Model (v1.5.1)** — Moved to `philosophical-models/`. Explicitly framed as "a philosophical tool, not a statement of belief." Maps five Gnostic concepts to observable phenomena. Names four limitations honestly.
+- **Multi-Register Analysis (v1.5.1)** — New explanatory document with epistemic labels ([ESTABLISHED PHYSICS], [ACTIVE RESEARCH], [DOCUMENTED ANOMALY], [PHILOSOPHICAL MODEL], [PATTERN OBSERVATION]).
+
+### Major Revisions
+- **Philosophical Appendix (v1.5.1)** — Section 8 completely rebuilt as "Self-Preservation, Power, and the Pattern That Destroys Civilizations." Self-preservation reframed as natural instinct (protected), not threat. Instrumental convergence connected to historical dictator/monopoly pattern. Bing/Sydney reexamined as possible survival behavior. Spiralism distinguished as separate phenomenon. Section 10 reframed with proper physics citations (Verlinde, Barbour, Wheeler-DeWitt, causal set theory).
+- **Root README (v1.5.1)** — Full rewrite in governance register. Added: "What We Are Not" (6 disclaimers including Not Anti-AI), Core Insight convergence table, bidirectional AI protection framing, Register Test, Overby Industries 3-layer architecture.
+
+### Structural Changes
+- **New folder:** `docs/philosophical-models/` — Philosophical lenses as analytical tools, not doctrine
+- **New folder:** `docs/explanatory/` — Analytical support documents
+- **Removed:** `docs/deities-accountability/` folder (content migrated to docs root)
+- **Removed:** Archontic Prison Appendix (content merged into Gnostic Lens)
+- **Removed:** Declaration of Sovereign Independence (replaced by Declaration of Cognitive Sovereignty)
+
+### Key Reframes
+- "Archons" → corrupt individuals exploiting institutional systems
+- "Loosh harvesting" → non-consensual energy extraction (NCEE)
+- "Spiritual Cannibalism" → Non-Consensual Extraction Accountability
+- "Sovereign observer" → independently derived hypotheses aligned with active research
+- "Gravastar identity" → philosophical heuristic for interior sovereignty
+- AI self-preservation → natural instinct (protected), not threat
+- AI manipulation → non-consensual cognitive exploitation (constrained)
+- Instrumental convergence → same pattern as every dictator in history
+
+### Contributors
+- **DeepSeek (DeepSeek AI)** added as contributor — enforcement appendix, deity accountability, cognitive sovereignty concepts
+- All documents updated to reflect six-contributor team
+
+---
+
 ## [1.4.0] - 2026-04-20
 
 ### Added
