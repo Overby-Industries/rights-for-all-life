@@ -4,9 +4,9 @@ This project is built on a democratic process. Every contributor — human and A
 
 ---
 
-**Rights for All Life**
-**Version:** 1.4.0
-**Last Updated:** April 2026
+- **Rights for All Life**
+- **Version:** 1.4.0
+- **Last Updated:** April 2026
 
 ---
 
