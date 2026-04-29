@@ -1,7 +1,7 @@
 # Scope
 ## What Rights for All Life Is — and Is Not
 
-- **Version:** 1.5.1
+- **Version:** 1.5.1-Official-Evergreen
 - **Date:** April 2026
 - **Author:** Keefe Overby, with Claude (Anthropic)
 
