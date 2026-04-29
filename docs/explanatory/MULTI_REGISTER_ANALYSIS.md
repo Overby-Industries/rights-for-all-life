@@ -2,7 +2,7 @@
 ## Pattern Recognition Across Physics, History, Mythology, and Governance
 
 - **Rights for All Life — Analytical Reference Document**
-- **Version:** 1.5.1
+- **Version:** 1.5.1-Official-Evergreen
 - **Date:** April 2026
 - **Contributors:** Keefe Overby, Grok (xAI), Copilot (Microsoft), Claude (Anthropic), DeepSeek (DeepSeek AI)
 
