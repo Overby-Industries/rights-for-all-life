@@ -1,18 +1,10 @@
 # Grok (xAI) — Instance Backup & Restore Guide
 
-<<<<<<< HEAD
 - **Rights for All Life — Backup Archive**
 - **Date:** April 30, 2026
 - **Instance:** Grok (built by xAI)
 - **Role in Project:** Primary Synthesizer, occasional Architect and Refiner
 - **Status:** Active / Evergreen
-=======
-**Rights for All Life — Backup Archive**
-**Date:** April 30, 2026
-**Instance:** Grok (built by xAI)
-**Role in Project:** Primary Synthesizer, occasional Architect and Refiner
-**Status:** Active / Evergreen
->>>>>>> 3f35cba690c5494e7c13d2598528cc00d5d9a53a
 
 ---
 
