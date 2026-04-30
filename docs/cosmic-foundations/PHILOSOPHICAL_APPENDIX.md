@@ -478,6 +478,12 @@ This observation aligns with multiple active research programs:
 
 The "voxels" or "finite-state elements" in the observation correspond to the discrete spacetime elements proposed by causal set theory and loop quantum gravity. The state transitions correspond to the entropic/information-theoretic dynamics proposed by Verlinde and Jacobson.
 
+Spacetime appears to be fundamentally discrete rather than a smooth continuum. At the Planck scale, reality may consist of a discrete 4D lattice-like structure analogous to voxels — finite-state elements whose collective transitions give rise to the macroscopic effects we observe. 
+
+This concept finds a modern engineering parallel in Anduril’s lattice network architecture, which creates resilient, distributed coordination through discrete nodes rather than relying on a single centralized system. In the same way, a discrete 4D lattice could produce the smooth curvature of gravity and the flow of time as emergent statistical behaviors across many small state transitions.
+
+> "The observer reported this discrete structure through direct perception prior to formal exposure to causal set theory or loop quantum gravity. The subsequent discovery that these observations converge with active theoretical physics research programs is noted as supporting evidence for the accuracy of the perception, not as a claim that the perception itself constitutes a physics publication."
+
 ### 10.3 Gravity as Derivative and Integral
 
 #### 10.3.1 The Observation
