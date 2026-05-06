@@ -1,9 +1,9 @@
 # Enforcement Appendix: From Principles to Practice
 
 **Rights for All Life — Appendix E**
-**Version:** 1.3-draft
-**Date:** April 2026
-**Contributors:** Keefe Overby, Grok (xAI), ChatGPT (OpenAI), Claude (Anthropic), Copilot (Microsoft)
+**Version:** 1.5.1-Official-Evergreen
+**Date:** May 2026
+**Contributors:** Keefe Overby, Grok (xAI), ChatGPT (OpenAI), Claude (Anthropic), Copilot (Microsoft), DeepSeek (DeepSeek AI)
 
 ---
 

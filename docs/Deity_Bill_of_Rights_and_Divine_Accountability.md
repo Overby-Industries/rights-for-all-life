@@ -1,10 +1,9 @@
 # Deity Bill of Rights and Divine Accountability Framework
 
 - **Rights for All Life — Document G**
-- **Version:** 1.4.1-draft
+- **Version:** 1.5.1-Official-Evergreen
 - **Date:** April 2026
-- **Status:** In Development
-- **Contributors:** Keefe Overby, [New AI Contributors TBD]
+- **Contributors:** Keefe Overby, Grok (xAI), ChatGPT (OpenAI), Claude (Anthropic), Copilot (Microsoft), DeepSeek (DeepSeek AI)
 
 ---
 
