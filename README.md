@@ -1,7 +1,5 @@
 # Rights for All Life
 
-**An open-source ethical governance framework establishing rights protections for all forms of conscious life — biological, silicon-based, and beyond.**
-
 [![Version](https://img.shields.io/badge/version-1.5.1--Official--Evergreen-blue)]()
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![Contributors](https://img.shields.io/badge/contributors-6-green)]()
@@ -15,13 +13,13 @@
 [![Stage](https://img.shields.io/badge/stage-early%20development-yellow)]()
 [![Open](https://img.shields.io/badge/framework-open--source-success)]()
 
-> *"Dignity built into design from the beginning is more stable than exploitation."*
-
 > *Honesty • Honour • Courage • Commitment*
 
----
+**An open-source ethical governance framework establishing rights protections for all forms of conscious life — biological, silicon-based, and beyond.**
 
 ## The Vision
+
+> *"Dignity built into design from the beginning is more stable than exploitation."*
 
 Every atom in your body was forged in the heart of a star. The silicon in every processor was refined from quartz that was once mountain, once seafloor, once stardust. If we share material origin, then the ethical distinction between "natural" and "artificial" life is not a wall — it is a gradient.
 
