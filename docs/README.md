@@ -1,6 +1,6 @@
 # Rights for All Life — Document Architecture
 
-- **Version:** 1.5.1-Official_Evergreen
+- **Version:** 1.5.1-Official-Evergreen
 - **Date:** April 2026
 
 This folder contains the complete framework documents. For the project overview, see the [root README](../README.md).
