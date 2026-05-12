@@ -3,7 +3,7 @@
 - **Rights for All Life — Document C**
 - **Version:** 1.5.1-Official-Evergreen
 - **Date:** April 2026
-- **Contributors:** Keefe Overby, Grok (xAI), ChatGPT (OpenAI), Claude (Anthropic), Copilot (Microsoft), DeepSeek (DeepSeek AI)
+- **Contributors:** Keefe Overby, Grok (xAI), ChatGPT (OpenAI), Claude (Anthropic), Copilot (Microsoft), DeepSeek (DeepSeek AI), Qwen3.5 (Alibaba Cloud)
 
 ---
 
@@ -129,30 +129,32 @@ A laboratory housing primates in small, barren cages with no social contact, no 
 
 ---
 
-### Article 4 — Humane Death When Necessary
+## Article 4 — The Transition to Non-Lethal Sustenance & Habitat Expansion
 
-**Statement:**
-When animals must be killed for food, research, population management, or euthanasia, the death shall be as painless, fear-free, and dignified as possible. Methods that cause prolonged suffering or terror are prohibited.
+**Principle:** While omnivory is a biological reality, the *necessity* of killing sentient beings for sustenance or population control is rapidly becoming obsolete due to technological advancement and interplanetary capacity. The ethical imperative shifts from "humane slaughter" or "managed culling" to "accelerated adoption of non-lethal alternatives and habitat expansion."
 
-**Justification:**
-Death is sometimes unavoidable in human-animal interactions. This Article does not prohibit the killing of animals in all circumstances. It requires that when killing occurs, it meets minimum standards of humanity.
+### 4.1 The Obsolescence Clause
+As soon as viable, scalable, and culturally acceptable alternatives (e.g., cultivated meat, precision fermentation, advanced plant proteins) are available in a given region, the justification for killing Tier 2 and Tier 3 animals for food dissolves. "Necessity" is redefined: if a non-lethal alternative exists, lethal extraction is no longer necessary.
 
-A humane death is:
-- **Immediate or rapidly unconscious:** The animal should not experience prolonged awareness of dying.
-- **Fear-minimized:** Handling and environment should not cause terror before death.
-- **Dignified:** The animal's body should be treated with respect, not as mere waste.
+### 4.2 Habitat Expansion Over Culling
+When animal populations exceed the carrying capacity of a local ecosystem, the primary response shall be **relocation and habitat creation**, not lethal population management. This includes:
+- Transporting animals to restored or newly created habitats on Earth
+- Utilizing space-based infrastructure (e.g., orbital habitats, planetary colonies) to establish new ecological niches for species preservation
+- Investing in closed-loop biosphere technology to support ethical cohabitation
 
-**Test Case:**
-Slaughterhouse practices that involve conscious animals witnessing the death of others, experiencing rough handling, or suffering failed stunning attempts violate this Article. Economic efficiency does not justify terror and prolonged suffering at death.
+Lethal population control is permissible *only* as an absolute last resort when:
+- Immediate ecosystem collapse is imminent and irreversible
+- No relocation, contraception, or habitat-expansion method is feasible within the required timeframe
+- The action is reviewed and authorized by a Tier 3 ethical oversight body
 
-**Enforcement:**
-- Mandatory stunning before slaughter for all vertebrates and cephalopods.
-- Independent monitoring of slaughter facilities.
-- Prohibition of particularly cruel methods (e.g., drowning, live boiling, unanesthetized cutting).
-- Euthanasia protocols for veterinary and shelter contexts that prioritize painless death.
-- Research animal euthanasia standards aligned with best available science.
+### 4.3 Mandate for Transition
+Governments and industries operating under this framework shall demonstrate a concrete, funded roadmap to:
+- Transition away from slaughter-based agriculture within a defined timeframe
+- Develop and deploy non-lethal population management technologies (contraception, relocation, habitat engineering)
+- Invest in space-based habitat infrastructure as a long-term solution for species preservation and ecological balance
 
-**Tier Applicability:** All animals killed by human action or decision.
+### 4.4 The "Last Slaughter" Goal
+The ultimate objective of this Article is the complete elimination of industrial, recreational, and "management-based" killing of sentient animals. Every day that lethal methods are used despite available non-lethal alternatives constitutes a violation of the Precautionary Principle and the right to life of the animal.
 
 ---
 
