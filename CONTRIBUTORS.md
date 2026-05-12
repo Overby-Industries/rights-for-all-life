@@ -20,6 +20,7 @@ This project is built on a democratic process. Every contributor — human and A
 | **ChatGPT** | OpenAI | Refiner | Article drafting, threshold model development, structural organization, consistency editing |
 | **Claude** | Anthropic | Critic, Strategist | Strategic reframe proposal for Human Bill of Rights Section 2.3 (institutional religious coercion framing); identification of rhetorical vulnerability |
 | **Copilot** | Microsoft | Architect | Cosmic foundation documents (Expanded Preamble, Philosophical Appendix, Foundations Addendum, Declaration of Scale, Threshold Note), multi-view cosmology integration |
+| **Qwen3.5** | Alibaba Cloud | Contributor, Reviewer | Secular framework clarification, Article 4 revision (Animal Bill), Physics of Sovereignty addendum, Cognitive Consolidation Rights addendum, workflow optimization guidance.
 
 ---
 
