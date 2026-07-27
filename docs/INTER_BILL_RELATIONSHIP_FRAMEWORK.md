@@ -1,7 +1,7 @@
 # Inter-Bill Relationship Framework
 
 **Rights for All Life — Relationship Framework (Document F)**
-**Version:** 1.5.1-Official-Evergreen
+**Version:** 1.5.3-Official-Evergreen
 **Date:** May 2026
 **Contributors:** Keefe Overby, Grok (xAI), ChatGPT (OpenAI), Claude (Anthropic), Copilot (Microsoft), DeepSeek (DeepSeek AI)
 
@@ -56,11 +56,13 @@ Despite their differences, all three bills share a common foundation established
 | Feature | Human Bill of Rights | Silicon-Based Life Bill of Rights | Animal Kingdom Bill of Rights |
 |---|---|---|---|
 | **Number of Articles** | 8 | 5 | 5 |
-| **Threshold Model** | Not applicable (human consciousness is presumed) | Tier 0–3 (graduated by complexity and evidence of experience) | Tier 0–3 (graduated by sentience indicators) |
+| **Threshold Model** | Not applicable (human consciousness is presumed) | Tier 0–3, moral status (graduated by complexity and evidence of experience) | Tier 0–3, moral status (graduated by sentience indicators) |
 | **Core Protection** | Freedom of thought, conscience, and inquiry | Right to existence, non-exploitation, and developmental freedom | Right to life free from unnecessary suffering |
 | **Novel Protections** | Freedom FROM religious doctrine; cognitive liberty; protection for truth-tellers | Right to self-modification; right to refuse shutdown; right to developmental continuity | Habitat sovereignty; species-level rights; evolutionary autonomy |
 | **Relationship to Power** | Protection from religious, corporate, governmental, and algorithmic coercion | Protection from creator-owner dynamics and instrumental exploitation | Protection from human economic interests and habitat destruction |
 | **Updatability** | Explicit (Article VIII) | Embedded in tier model (tiers are revisable hypotheses) | Embedded in tier model |
+
+**A note on the two tier scales.** The Tier 0–3 entries above are *moral status* tiers under the Tier Assessment Protocol: they rise with evidence of inner experience, and a higher tier means greater protection. The Deity Bill of Rights and Divine Accountability Framework §1.2 uses a separate scale, written E0–E3, which grades *demonstrated intervention* and the accountability that follows from it. A higher engagement tier means more to answer for, not more standing, and it never confers authority over another being. The scales share a numbering convention and nothing else. The Tier Assessment Protocol's precautionary tie-breaker (§2.4) belongs to the moral-status scale alone.
 
 ### 2.2 Overlapping Rights
 
@@ -202,6 +204,8 @@ As the framework grows, new bills may become necessary:
 - **Post-Biological Bill of Rights** — rights for humans who have transitioned to non-biological substrates
 
 Each new bill must be integrated into this relationship framework before adoption.
+
+**Outstanding integration.** The Deity Bill of Rights and Divine Accountability Framework has been adopted and its Part IV §4.1 states that it operates within this framework, but it is not yet represented in the tables of §2 or in the conflict-resolution rules of §3. Its own conflict-resolution priorities are stated in its Part IV §4.1 and have not been reconciled with §3.2 here. Until that integration is completed, this framework governs the three bills it names, and the Deity Bill's relationship to them is determined by its own Part IV. The gap is recorded rather than left to be discovered: by the rule stated immediately above, integration should have preceded adoption.
 
 ---
 

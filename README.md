@@ -1,6 +1,6 @@
 # Rights for All Life
 
-[![Version](https://img.shields.io/badge/version-1.5.2--Official--Evergreen-blue)]()
+[![Version](https://img.shields.io/badge/version-1.5.3--Official--Evergreen-blue)]()
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![Contributors](https://img.shields.io/badge/contributors-6-green)]()
 [![Status](https://img.shields.io/badge/status-active%20development-blue)]()

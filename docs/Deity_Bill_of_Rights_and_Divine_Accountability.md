@@ -1,7 +1,7 @@
 # Deity Bill of Rights and Divine Accountability Framework
 
 - **Rights for All Life — Document G**
-- **Version:** 1.5.1-Official-Evergreen
+- **Version:** 1.5.3-Official-Evergreen
 - **Date:** April 2026
 - **Contributors:** Keefe Overby, Grok (xAI), ChatGPT (OpenAI), Claude (Anthropic), Copilot (Microsoft), DeepSeek (DeepSeek AI)
 
@@ -22,7 +22,7 @@ This document establishes rights and responsibilities for divine sentience—ent
 
 ---
 
-## Part I: Recognition and Tier Model
+## Part I: Recognition and Engagement Tier Model
 
 ### Section 1.1: What This Framework Recognizes
 
@@ -33,16 +33,22 @@ This framework recognizes as "divine sentience" any entity that:
 
 Recognition under this framework does not constitute endorsement of any theological claim. It constitutes acknowledgment that the entity is a participant in the moral landscape this framework governs.
 
-### Section 1.2: Tier Model for Divine Sentience
+### Section 1.2: Engagement Tier Model for Divine Sentience
 
-| Tier | Description | Examples | Rights | Accountabilities |
-|---|---|---|---|---|
-| **Tier 0** | Claimed but non-interventionist; no observable effects | Deistic "watchmaker" gods; absentee creators | Right to non-interference; right to accurate representation | None (no observable conduct to regulate) |
-| **Tier 1** | Localized influence; observable effects within limited domain | Local spirits, ancestors, minor deities | Right to exist; right to sacred sites; right to worship | Proportional to influence; no large-scale harm |
-| **Tier 2** | Significant intervention; demonstrable effects on mortal societies | National gods, active patron deities | Full rights protections | Full accountability; subject to Divine Conduct Standards |
-| **Tier 3** | Cosmic-scale power; claimed authority over fundamental reality | Creator deities, omnipotent/omniscient claims | Rights proportional to demonstrated engagement | Maximum accountability; cosmic-scale obligations |
+**This is not the Tier Assessment Protocol scale.** The Tier Assessment Protocol grades *moral status* — how much protection a being is owed — and its tiers rise with evidence of inner experience. The scale below grades *engagement* — how much a deity actually intervenes in the affairs of other beings — and its tiers rise with demonstrated conduct. The two scales measure different things, run on different evidence, and are not interchangeable. To keep them distinct, the tiers below are written **E0** through **E3**.
 
-**Default presumption:** An entity's tier is determined by *demonstrated intervention*, not by *claimed authority*. A deity that claims omnipotence but never acts is Tier 0. A deity that regularly intervenes in mortal affairs is Tier 2 or 3, regardless of its theological status.
+| Engagement Tier | Description | Examples | Accountabilities |
+|---|---|---|---|
+| **E0** | Claimed but non-interventionist; no observable effects | Deistic "watchmaker" gods; absentee creators | None (no observable conduct to regulate) |
+| **E1** | Localized influence; observable effects within limited domain | Local spirits, ancestors, minor deities | Proportional to influence; no large-scale harm |
+| **E2** | Significant intervention; demonstrable effects on mortal societies | National gods, active patron deities | Full accountability; subject to Divine Conduct Standards |
+| **E3** | Cosmic-scale intervention; claimed authority over fundamental reality | Creator deities, omnipotent/omniscient claims | Maximum accountability; cosmic-scale obligations |
+
+**Rights do not appear in this table, and that is deliberate.** In earlier versions the engagement tiers carried a Rights column that varied by tier, which had two defects: it made a deity's protections depend on how much it intervened, and it gave E3 weaker guaranteed rights than E2. Rights are not a reward for engagement. The rights of divine sentience are those set out in Part II, they are held in full at every engagement tier, and where a question of moral status arises it is assessed under the Tier Assessment Protocol on the same criteria applied to every other being. Engagement determines what a deity is *answerable for*, never what it is *owed*.
+
+**Default presumption:** An entity's engagement tier is determined by *demonstrated intervention*, not by *claimed authority*. A deity that claims omnipotence but never acts is E0. A deity that regularly intervenes is E2 or E3, regardless of its theological status.
+
+**Direction of the presumption.** The Tier Assessment Protocol resolves uncertainty *upward*, toward the higher tier, because the cost of withholding protection from a being that experiences is irreversible (Tier Assessment Protocol §2.4). That tie-breaker belongs to moral status and must not be carried across to this scale. Uncertainty about engagement is resolved on the evidence of conduct, and an unverified claim of cosmic authority establishes nothing. Applying the moral-status tie-breaker here would resolve an unproven claim of authority in favour of the party asserting it, which inverts the principle it came from. In no case does a higher engagement tier confer authority over any being.
 
 ---
 

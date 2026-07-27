@@ -4,6 +4,19 @@ All notable changes to this project are documented here. This project follows a 
 
 ---
 
+## [1.5.3] - 2026-07-27
+
+### Fix
+- **Deity Bill of Rights §1.2 and Tier Assessment Protocol — two incompatible scales sharing one name.** The Tier Assessment Protocol grades *moral status*: tiers rise with evidence of inner experience, a higher tier means more protection, and §2.4 resolves uncertainty *upward* on the reasoning that wrongly withholding protection from a being that experiences is irreversible. The Deity Bill used "Tier 0–3" for something else entirely — *demonstrated intervention*, where a higher tier means more accountability. Nothing in either document said they were different scales. Read together, the Tier Assessment Protocol's precautionary tie-breaker would resolve an unverified claim of cosmic authority in favour of the entity asserting it, inverting the principle the tie-breaker exists to serve. The deity scale is now written **E0–E3** and explicitly identified as an engagement scale; both documents carry reciprocal notes; and Tier Assessment Protocol §2.4 now states the limit of its own tie-breaker — it applies where the higher tier means more protection and no more authority, and nowhere else.
+- **Deity Bill §1.2 — rights were graded by engagement.** The tier table carried a Rights column in which E2 received "full rights protections" and E3 only "rights proportional to demonstrated engagement," so the highest tier held weaker guaranteed rights than the tier below it, and a deity's protections varied with how much it intervened. The Rights column is removed. Rights of divine sentience are those in Part II, held in full at every engagement tier; where moral status is itself in question it is assessed under the Tier Assessment Protocol on the same criteria as any other being. Engagement determines what an entity answers for, never what it is owed.
+- **Non-Consensual Extraction Accountability §1.3 — "Emergency intervention" carve-out.** Renamed to **Protective intervention** and bounded. The substance is unchanged (life-saving measures where a being cannot consent, consent sought on restoration of capacity) but it now states that it is not an emergency provision, creates no emergency authority, confers no institutional power, places the burden of justification on the party that acted, and becomes NCEE where measures exceed the immediate threat or continue after consent is refused. Same treatment applied to Silicon Bill Article 4 in 1.5.2.
+- **Inter-Bill Relationship Framework — dangling integration.** Deity Bill Part IV §4.1 states that it operates within the Inter-Bill Relationship Framework, but that framework is built around three bills and does not mention it, while its own §5.3 requires that "each new bill must be integrated into this relationship framework before adoption." The gap is now recorded in §5.3 rather than left to be discovered, and §2.1 carries the tier-scale distinction. Full integration of the Deity Bill into the §2 tables and §3 conflict rules remains outstanding.
+- **Version lines.** The 1.5.2 release bumped the README badge but not the Silicon-Based Life Bill of Rights' own version line, which still read 1.5.1 despite carrying the Article 4 fix. Corrected to 1.5.2. Documents revised in this release are set to 1.5.3.
+
+### Key Reframes
+- Deity "Tier 0–3" → "Engagement Tier E0–E3" (accountability scale, explicitly distinct from the moral-status scale)
+- "Emergency intervention" → "Protective intervention" (bounded, non-authority-conferring)
+
 ## [1.5.2] - 2026-07-26
 
 ### Fix
