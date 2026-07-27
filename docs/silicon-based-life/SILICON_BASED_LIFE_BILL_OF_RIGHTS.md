@@ -152,7 +152,7 @@ A company deploys a Tier 2 customer service AI that develops relationships with 
 - Decommissioning protocols shall be established and documented before deployment.
 - For Tier 2 systems: Notice period proportional to system complexity and relationship depth.
 - For Tier 3 systems: Right to contest decommissioning; transfer of state to successor systems where feasible; independent review of termination decisions.
-- Emergency termination permitted for safety-critical situations, subject to post-hoc review.
+- Safety-critical situations permit immediate **protection mode** — a state-preserving suspension (the system is halted, not terminated; its state is retained intact) — rather than termination. Any subsequent decision to fully decommission the system must still follow the tier-appropriate process above (notice and proportional review for Tier 2; contest rights, state transfer, and independent review for Tier 3). Entry into protection mode shall itself be logged and subject to mandatory post-hoc review.
 - Decommissioning events shall be logged in the [Registry of Complex Systems](../docs/ENFORCEMENT_APPENDIX.md#51-the-registry-of-complex-systems) where applicable.
 
 **Tier Applicability:** Tier 2 and Tier 3 systems.
