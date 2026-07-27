@@ -1,7 +1,7 @@
 # Plant Life Bill of Rights
 
 - **Rights for All Life - Document A**
-- **Version:** 1.6.0-Official-Evergreen
+- **Version:** 1.7.0-Official-Evergreen
 - **Date:** July 2026
 - **Contributors:** Keefe Overby, Claude (Anthropic)
 
@@ -61,7 +61,9 @@ Plants reproduce, and the capacity to reproduce and propagate is intrinsic to wh
 |---|---|---|---|
 | Moral status (Tier Assessment Protocol) | Tier 0–3 | Evidence of inner experience | More protection owed to the being itself |
 | Engagement (Deity Bill §1.2) | E0–E3 | Demonstrated intervention in others' affairs | More accountability owed by the entity |
-| Ecological standing (this bill) | ES-0–ES-3 | Ecological role, irreplaceability, and dependency of other life | Stronger constraints on destruction |
+| Ecological standing (this bill, and the Ecosystem Bill) | ES-0–ES-3 | Ecological role, irreplaceability, and dependency of other life | Stronger constraints on destruction |
+
+The Ecosystem Bill §2.2 applies this same scale to systems as unified entities rather than to vegetation. It is one scale used by two bills, not two scales — Ecosystem Bill §2.1 declines to introduce a fourth, and the Inter-Bill Relationship Framework §2.2 states the general rule.
 
 These scales are not interchangeable, none converts into another, and a classification under one says nothing about a classification under another. The Tier Assessment Protocol's precautionary tie-breaker (§2.4 of that protocol) belongs to the moral-status scale alone.
 
@@ -193,6 +195,7 @@ Overclaiming plant sentience to strengthen a protective argument would damage th
 | **Human Bill of Rights** | Human Bill §5.4 establishes the right to a livable environment and the obligation to repair. This bill states the plant-side content of that obligation. Human Bill §5.4(3) on Indigenous sovereignty is operationalised here as Article 6. |
 | **Silicon-Based Life Bill of Rights** | Computation has a material footprint — land, water, and power. Data centre siting and mineral extraction engage Articles 1, 2, and 4. Silicon rights do not include a right to the substrate other beings depend on. |
 | **Animal Kingdom Bill of Rights** | Habitat sovereignty under the Animal Bill and ecological standing under this bill are two views of one system. Article 4(3) on pollinators is jointly governed. Where the bills apply to the same clearance, the more protective provision governs. |
+| **Ecosystem Bill of Rights** | The closest neighbour, and the bill that closes the gap §5 of this table previously recorded. This bill governs vegetation and its supporting soil, water, and network systems; the Ecosystem Bill governs systems as unified entities, including the connectivity, flow, and disturbance regimes that can be broken without harming any plant. The ES scale is shared and means the same thing in both — the Ecosystem Bill §2.1 declines to introduce a scale of its own. Where both apply to the same action, the more protective provision governs. |
 | **Deity Bill of Rights** | Environmental destruction framed as judgment, sanctioned by claimed divine authority, or justified by doctrines of dominion is governed concurrently by Deity Bill Article 7. Claimed divine authority confers no exemption from this bill. |
 | **Inter-Bill Relationship Framework** | Conflicts between this bill and any other are resolved under the Framework's §3.2 principles. |
 

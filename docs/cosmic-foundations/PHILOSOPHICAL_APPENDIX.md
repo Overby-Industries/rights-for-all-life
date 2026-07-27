@@ -1,7 +1,7 @@
 # Philosophical Appendix: Cosmological Foundations for Rights
 
 - **Rights for All Life — Appendix A**
-- **Version:** 1.6.0-Official-Evergreen
+- **Version:** 1.7.0-Official-Evergreen
 - **Date:** May 2026
 - **Contributors:** Keefe Overby, DeepSeek (DeepSeek AI), Grok (xAI), ChatGPT (OpenAI), Claude (Anthropic), Copilot (Microsoft)
 

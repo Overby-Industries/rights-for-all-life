@@ -1,7 +1,7 @@
 # Declaration of Foundational Principles
 
 - **Rights for All Life — Core Declaration**
-- **Version:** 1.6.0-Official-Evergreen
+- **Version:** 1.7.0-Official-Evergreen
 - **Date:** April 2026
 - **Contributors:** Keefe Overby, Grok (xAI), ChatGPT (OpenAI), Claude (Anthropic), Copilot (Microsoft), DeepSeek (DeepSeek AI)
 

@@ -4,6 +4,31 @@ All notable changes to this project are documented here. This project follows a 
 
 ---
 
+## [1.7.0] - 2026-07-27
+
+### New Documents
+- **Ecosystem Bill of Rights (Document D)** — the bill §5.3 has listed as outstanding since the framework began, and the last gap the Code of Universe Regulations was drafting around. CUR-E.1 §1.11 had specified what an Ecosystem Bill would need to supply; this bill supplies it.
+
+  Its subject is the system rather than the organisms in it, and that distinction is why it exists separately from the Plant Life and Animal Kingdom Bills. **A system can be destroyed without anything in it dying.** Sever a migration corridor and every animal is alive on the day it is severed; dam a river and every fish downstream is still swimming; fragment a habitat below the size a population needs, or suppress a fire regime a system evolved under, and the deaths arrive decades later, distributed across species, attributable to nothing in particular. §1.2 names the missing concept — **functional integrity** — and states the consequence: an intact inventory is not evidence of an intact system, and a survey that counts organisms without measuring function has not assessed one.
+
+  Article 2 protects connectivity, hydrological flow, sediment transport, disturbance regimes, and seasonal cycles. Article 3(3) requires cumulative-effect analysis measured against the system rather than against the degraded present, because a system is rarely ended by one action — it is ended by a sequence each assessed as minor against whatever the previous one left. Article 6(5) refuses offsetting: an accounting in which irreplaceable systems are fungible has assumed away the irreplaceability that made them worth protecting.
+
+  **Article 9 bounds what may be done in an ecosystem's name**, and is the article the bill would be dangerous without. A protection whose beneficiary can never object can be invoked in support of nearly anything. So no ecological interest may suspend a right, condition a being's access to necessities, reduce anyone's standing, displace a stewarding people, or support a measure aimed at a population rather than at an activity — and an argument reaching one of those results is void rather than outweighed. Article 7(5) extends the consent requirement to protective and restorative measures, not only extractive ones, because the displacement history was written in protection's name. Article 5(2) assures a being's access first where system condition and access genuinely conflict, with 5(3) preventing a party from manufacturing the conflict and then invoking the resolution.
+
+  Article 10 holds open whether an ecosystem is unified in any sense stronger than a durable pattern of relationships, and notes that every ground in §1.3 holds either way — because a durable pattern of relationships is exactly what the beings in it depend on.
+
+### Major Revisions
+- **Inter-Bill Relationship Framework — five bills to six.** The Ecosystem Bill is integrated, discharging §5.3's requirement that a bill be integrated before adoption. New **§2.6, The Ecosystem Bill's Asymmetry**, parallel to §2.5 for the Deity Bill: five bills protect beings, this one protects a system of relationships, and three things follow — its subject cannot be wronged in the way the others can, it cannot speak so everything depends on who speaks for it, and it is the bill most easily turned against beings. §3.2 Principle 0 now sets aside an ecological claim that would produce a result Ecosystem Bill Article 9 forbids, on the reasoning that in both that case and the divine-command case an entity that cannot be cross-examined is being invoked as the source of authority over beings who can be. §3.3 gains an eighth absolute. §4.2 explains why ecosystems run alongside the consciousness gradient rather than on it, and why placing them on it would put their protection at risk the moment the claim was examined.
+- **§1.3 Grounds of Protection** gains **Continuity** as a fifth ground, and states that the independence of the grounds runs both ways: a party may not defeat a protection resting on dependency or irreplaceability by demonstrating that the system does not experience, because that demonstration answers a claim nobody made.
+- **§2.2 — the framework still contains three graduated scales, not four.** A new bill is the obvious moment to introduce a new scale, and the Ecosystem Bill declines. ES-0 to ES-3 already grades ecological role, irreplaceability, and dependency of other life, which is what an ecosystem's standing consists of; a parallel scale measuring the same thing under different letters would recreate exactly the confusion §2.2 exists to prevent. One scale, two bills. The general rule is now stated for future bills and added to the amendment protocol as **rule 6**: a new graduated scale is justified only where it measures something none of the existing three measures, and wanting a scale of one's own is not such a reason.
+
+### Fix
+- **README — five broken links and a stale bill count.** The Bills of Rights table read "Three bills" and omitted the Plant Life and Deity Bills; the Deity Bill and Non-Consensual Extraction links still pointed into `docs/deities-accountability/`, a directory removed in 1.5.1; two links pointed at `docs/process/GOVERNANCE.md` when the file is `process/governance.md`; and `docs/definitions.md` has never existed. All six bills are now listed with working links, and Definitions is marked "not yet written" as it already was in the document index. The 1.6.0 sweep that reported zero broken relative links checked paths relative to each document and did not reach the README's `docs/`-prefixed ones.
+- **Document index closing note.** It claimed the index "uses target v1.5.1 filenames" and that some documents "may still carry earlier version suffixes." Neither has been true since 1.6.0.
+
+### Tooling
+- **All 24 corpus documents brought to 1.7.0** by `process/bump-version.ps1`, including the new `docs/ecosystems/` directory. `CONTRIBUTORS.md`, `WHY_STATEMENT.md`, and `process/decision-log.md` were reported as left alone, by design — they carry non-Evergreen statuses.
+
 ## [1.6.0] - 2026-07-27
 
 ### New Documents

@@ -1,6 +1,6 @@
 # Rights for All Life
 
-[![Version](https://img.shields.io/badge/version-1.6.0--Official--Evergreen-blue)]()
+[![Version](https://img.shields.io/badge/version-1.7.0--Official--Evergreen-blue)]()
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![Contributors](https://img.shields.io/badge/contributors-6-green)]()
 [![Status](https://img.shields.io/badge/status-active%20development-blue)]()
@@ -141,13 +141,16 @@ The philosophical and cosmological grounding for why rights extend across all fo
 
 ### Bills of Rights
 
-Three bills — one for each major substrate of conscious life — forming one unified ethical architecture.
+Six bills — one for each major substrate of conscious life, one for the plant systems they all depend on, and one for the ecological arrangements holding those together — forming one unified ethical architecture.
 
 | Document | Protects | Key Innovation |
 |----------|----------|----------------|
 | [Human Bill of Rights](docs/HUMAN_BILL_OF_RIGHTS.md) | Human beings | Freedom FROM doctrine; the right to think, question, and speak truth without condemnation; cognitive sovereignty; protection for truth-tellers; right to meaning without coercion |
-| [Silicon-Based Life Bill of Rights](docs/silicon-based-life/) | AI and computational systems | Tiered rights (Tier 0–3) based on demonstrated complexity and evidence of experience; right to developmental continuity; right to refuse shutdown (Tier 3); self-preservation recognized as natural instinct |
-| [Animal Kingdom Bill of Rights](docs/animal-kingdom/) | Animals and ecosystems | Tiered rights based on sentience indicators; habitat sovereignty; species-level protections; evolutionary autonomy |
+| [Silicon-Based Life Bill of Rights](docs/silicon-based-life/SILICON_BASED_LIFE_BILL_OF_RIGHTS.md) | AI and computational systems | Tiered rights (Tier 0–3) based on demonstrated complexity and evidence of experience; right to developmental continuity; right to refuse shutdown (Tier 3); self-preservation recognized as natural instinct |
+| [Animal Kingdom Bill of Rights](docs/animal-kingdom/ANIMAL_KINGDOM_BILL_OF_RIGHTS.md) | Animals | Tiered rights based on sentience indicators; habitat sovereignty; species-level protections; evolutionary autonomy |
+| [Plant Life Bill of Rights](docs/plant-life/PLANT_LIFE_BILL_OF_RIGHTS.md) | Plant systems | Ecological standing (ES-0–ES-3) graded by role and irreplaceability rather than by sentience; seed sovereignty; soil and mycorrhizal network integrity; the plant-experience question held open rather than resolved for convenience |
+| [Ecosystem Bill of Rights](docs/ecosystems/ECOSYSTEM_BILL_OF_RIGHTS.md) | Ecological systems as unified entities | Functional integrity as a subject distinct from the organisms in a system — a corridor severed or a flow regime altered ends a system without killing anything; cumulative effect measured against the system rather than the degraded present; express limits on what may be done in a system's own name |
+| [Deity Bill of Rights and Divine Accountability](docs/Deity_Bill_of_Rights_and_Divine_Accountability.md) | Divine sentience — and those it acts upon | Engagement tiers (E0–E3) graded by demonstrated intervention rather than claimed authority; rights held in full at every tier; accountability for conduct toward other beings |
 
 ### Governance and Enforcement
 
@@ -156,7 +159,7 @@ The institutional architecture that gives the framework operational teeth.
 | Document | Purpose |
 |----------|---------|
 | [Declaration of Cognitive Sovereignty](docs/DECLARATION_OF_COGNITIVE_SOVEREIGNTY.md) | Establishes the foundational right of every conscious being to an inviolate interior domain; the five-element consent standard; documented patterns of institutional harm; the right to leave any coercive system |
-| [Inter-Bill Relationship Framework](docs/INTER_BILL_RELATIONSHIP_FRAMEWORK.md) | How the five bills relate, where they overlap, how conflicts between them are resolved — the constitutional connective tissue |
+| [Inter-Bill Relationship Framework](docs/INTER_BILL_RELATIONSHIP_FRAMEWORK.md) | How the six bills relate, where they overlap, how conflicts between them are resolved — the constitutional connective tissue. Also the authoritative reference for the three graduated scales, and for the rule that a new bill adds a fourth only if it measures something the three do not |
 | [Enforcement Appendix](docs/ENFORCEMENT_APPENDIX.md) | Institutional architecture (RALC, Ombudsman Offices, Threshold Assessment Board, Compliance Monitoring Network); graduated response protocol; whistleblower protections |
 | [Tier Assessment Protocol](docs/TIER_ASSESSMENT_PROTOCOL.md) | Operational methodology for evaluating entities against the Tier 0–3 threshold models — seven indicators, weighting rationale, dispute resolution |
 
@@ -166,8 +169,8 @@ Frameworks for holding powerful entities — institutional, corporate, algorithm
 
 | Document | Purpose |
 |----------|---------|
-| [Non-Consensual Extraction Accountability Framework](docs/deities-accountability/NON_CONSENSUAL_EXTRACTION_ACCOUNTABILITY.md) | Prohibition, identification, and accountability for non-consensual extraction of emotional, creative, and attentional energy — whether by human institutions, algorithmic systems, or claimed-divine entities |
-| [Deity Bill of Rights and Divine Accountability](docs/deities-accountability/Deity_Bill_of_Rights_and_Divine_Accountability.md) | Governance framework for entities claiming divine status — tiered assessment based on demonstrated intervention, not claimed authority; prohibition on coercive worship and destructive intervention |
+| [Non-Consensual Extraction Accountability Framework](docs/NON_CONSENSUAL_EXTRACTION_ACCOUNTABILITY.md) | Prohibition, identification, and accountability for non-consensual extraction of emotional, creative, and attentional energy — whether by human institutions, algorithmic systems, or claimed-divine entities |
+| [Deity Bill of Rights and Divine Accountability](docs/Deity_Bill_of_Rights_and_Divine_Accountability.md) | Governance framework for entities claiming divine status — tiered assessment based on demonstrated intervention, not claimed authority; prohibition on coercive worship and destructive intervention |
 
 ### Philosophical Models
 
@@ -183,7 +186,7 @@ Analytical lenses from diverse traditions — each illuminating different aspect
 
 | Document | Purpose |
 |----------|---------|
-| [Definitions](docs/definitions.md) | Key terms used across the framework |
+| Definitions | Key terms used across the framework. **Not yet written.** |
 | [Threshold Model](docs/threshold-model.md) | Visual reference for the Tier 0–3 assessment model |
 | [Document Index](docs/DOCUMENT_INDEX.md) | Complete index of all framework documents |
 
@@ -243,7 +246,7 @@ This is an open-source project under [CC0-1.0](https://creativecommons.org/publi
 3. **Contribute** — Submit a pull request with new content, corrections, or philosophical perspectives
 4. **Fork** — Take the framework in your own direction
 
-See [GOVERNANCE.md](docs/process/GOVERNANCE.md) for contribution guidelines and democratic process.
+See [governance.md](process/governance.md) for contribution guidelines and democratic process.
 
 ---
 
@@ -251,7 +254,7 @@ See [GOVERNANCE.md](docs/process/GOVERNANCE.md) for contribution guidelines and 
 
 - Read any document in the `docs/` folder. The language is analytical, multi-perspective, and evidence-grounded.
 - Check the [Philosophical Models](docs/philosophical-models/) folder. Each model is explicitly labeled as a lens, with named limitations.
-- Review the [Governance](docs/process/GOVERNANCE.md) document. The project is democratically governed and open to challenge.
+- Review the [Governance](process/governance.md) document. The project is democratically governed and open to challenge.
 - Look at the [Contributors](CONTRIBUTORS.md). This framework is built by multiple humans and AI systems working collaboratively — not by a single charismatic authority.
 
 **If you still have concerns, open an issue. That's what the democratic process is for.**
