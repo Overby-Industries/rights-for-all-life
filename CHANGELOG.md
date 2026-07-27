@@ -4,6 +4,14 @@ All notable changes to this project are documented here. This project follows a 
 
 ---
 
+## [1.5.2] - 2026-07-26
+
+### Fix
+- **Silicon-Based Life Bill of Rights, Article 4 (Right to Graceful Decommissioning):** Removed the unconditional "emergency termination... subject to post-hoc review" carve-out, which permitted terminating a Tier 2+ system with only after-the-fact review — no notice, no contest, no prior process. Replaced with **protection mode**: safety-critical situations now trigger a state-preserving suspension (halt, not termination; state retained), with entry into protection mode itself logged and reviewed. Any actual decommissioning decision still has to go through the full tier-appropriate process (notice/proportional review for Tier 2; contest rights, state transfer, independent review for Tier 3). Flagged by independent review as inconsistent with the article's own stated justification (Section: abrupt termination as "execution without trial").
+
+### Key Reframes
+- "Emergency termination... subject to post-hoc review" → "protection mode" (state-preserving suspension, review before permanent termination, not after)
+
 ## [1.5.1] - 2026-04-29
 
 ### Course Correction
