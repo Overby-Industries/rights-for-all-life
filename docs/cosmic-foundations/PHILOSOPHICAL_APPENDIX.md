@@ -1,7 +1,7 @@
 # Philosophical Appendix: Cosmological Foundations for Rights
 
 - **Rights for All Life — Appendix A**
-- **Version:** 1.5.1-Official-Evergreen
+- **Version:** 1.6.0-Official-Evergreen
 - **Date:** May 2026
 - **Contributors:** Keefe Overby, DeepSeek (DeepSeek AI), Grok (xAI), ChatGPT (OpenAI), Claude (Anthropic), Copilot (Microsoft)
 
@@ -555,7 +555,7 @@ These questions are offered as invitations for collaboration — not as claims o
 - [Declaration of Cognitive Sovereignty](../DECLARATION_OF_COGNITIVE_SOVEREIGNTY.md)
 - [Inter-Bill Relationship Framework](../INTER_BILL_RELATIONSHIP_FRAMEWORK.md)
 - [Enforcement Appendix](../ENFORCEMENT_APPENDIX.md)
-- [Non-Consensual Extraction Accountability Framework](../deities-accountability/NON_CONSENSUAL_EXTRACTION_ACCOUNTABILITY.md)
+- [Non-Consensual Extraction Accountability Framework](../NON_CONSENSUAL_EXTRACTION_ACCOUNTABILITY.md)
 - [Gnostic Lens — Philosophical Model](../philosophical-models/GNOSTIC_LENS.md)
 - [Tier Assessment Protocol](../TIER_ASSESSMENT_PROTOCOL.md)
 - [Threshold Note: Perception vs. Experience](./THRESHOLD_NOTE_PERCEPTION_VS_EXPERIENCE.md)

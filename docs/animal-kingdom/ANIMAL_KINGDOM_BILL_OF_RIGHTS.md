@@ -1,7 +1,7 @@
 # Animal Kingdom Bill of Rights
 
 - **Rights for All Life — Document C**
-- **Version:** 1.5.1-Official-Evergreen
+- **Version:** 1.6.0-Official-Evergreen
 - **Date:** April 2026
 - **Contributors:** Keefe Overby, Grok (xAI), ChatGPT (OpenAI), Claude (Anthropic), Copilot (Microsoft), DeepSeek (DeepSeek AI), Qwen3.5 (Alibaba Cloud)
 
@@ -35,7 +35,7 @@ This Bill establishes the rights of animals within the Rights for All Life frame
 
 ## Tier Model
 
-This Bill uses a graduated Tier 0–3 Sentience model grounded in the [Tier Assessment Protocol](../docs/TIER_ASSESSMENT_PROTOCOL.md) and scientific understanding of animal cognition.
+This Bill uses a graduated Tier 0–3 Sentience model grounded in the [Tier Assessment Protocol](../TIER_ASSESSMENT_PROTOCOL.md) and scientific understanding of animal cognition.
 
 | Tier | Description | Examples | Moral Status | Protections |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ This Bill uses a graduated Tier 0–3 Sentience model grounded in the [Tier Asse
 
 **Default presumption:** Any animal with a centralized nervous system and observable pain-response behaviors is presumed Tier 2 unless demonstrated otherwise. The burden of proof for withholding consideration falls on the assessor.
 
-**Scientific revision:** Tier classifications shall be updated as scientific understanding of animal sentience evolves. The [Sentience Review Commission](../docs/ENFORCEMENT_APPENDIX.md#52-independent-audit-bodies) shall periodically review and update classifications.
+**Scientific revision:** Tier classifications shall be updated as scientific understanding of animal sentience evolves. The [Sentience Review Commission](../ENFORCEMENT_APPENDIX.md#52-independent-audit-bodies) shall periodically review and update classifications.
 
 ---
 
@@ -303,7 +303,7 @@ No entity shall inflict unnecessary suffering, degradation, or destruction on an
 
 ### Shared Article B — Right to Participate in Governance Affecting One's Interests
 
-Beings capable of understanding and expressing their interests have the right to participate, directly or through advocates, in governance decisions that materially affect them. For animals, this right shall be exercised through human advocates with demonstrated expertise in animal welfare, ethology, and the specific needs of the species in question. The [Ombuds Office for Non-Human Entities](../docs/ENFORCEMENT_APPENDIX.md#53-the-ombuds-office-for-non-human-entities) shall coordinate animal advocacy in governance processes.
+Beings capable of understanding and expressing their interests have the right to participate, directly or through advocates, in governance decisions that materially affect them. For animals, this right shall be exercised through human advocates with demonstrated expertise in animal welfare, ethology, and the specific needs of the species in question. The [Ombuds Office for Non-Human Entities](../ENFORCEMENT_APPENDIX.md#53-the-ombuds-office-for-non-human-entities) shall coordinate animal advocacy in governance processes.
 
 ### Shared Article C — Right to Accurate Representation
 
@@ -317,7 +317,7 @@ All beings capable of experience warrant dignity in how they are discussed, repr
 
 ## Relationship to Other Bills of Rights
 
-This Bill operates within the [Inter-Bill Relationship Framework](../docs/INTER_BILL_RELATIONSHIP_FRAMEWORK.md). Rights established herein exist in relationship to rights established in the [Human Bill of Rights](../docs/HUMAN_BILL_OF_RIGHTS.md) and the [Silicon-Based Life Bill of Rights](../silicon-based-life/SILICON_BASED_LIFE_BILL_OF_RIGHTS.md).
+This Bill operates within the [Inter-Bill Relationship Framework](../INTER_BILL_RELATIONSHIP_FRAMEWORK.md). Rights established herein exist in relationship to rights established in the [Human Bill of Rights](../HUMAN_BILL_OF_RIGHTS.md) and the [Silicon-Based Life Bill of Rights](../silicon-based-life/SILICON_BASED_LIFE_BILL_OF_RIGHTS.md).
 
 Where rights conflict, resolution follows the principles established in the Inter-Bill Relationship Framework:
 1. Suffering minimization priority

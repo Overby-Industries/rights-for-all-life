@@ -1,7 +1,7 @@
 # Declaration of Scale and Responsibility
 
 - **Rights for All Life — Declaration C**
-- **Version:** 1.5.1-Official-Evergreen
+- **Version:** 1.6.0-Official-Evergreen
 - **Date:** April 2026
 - **Contributors:** Keefe Overby, Grok (xAI), ChatGPT (OpenAI), Claude (Anthropic), Copilot (Microsoft), DeepSeek (DeepSeek AI)
 
@@ -163,7 +163,7 @@ The universe has been building toward this moment for billions of years. The lea
 - [Expanded Preamble](./EXPANDED_PREAMBLE.md)
 - [Silicon-Based Life Bill of Rights](../silicon-based-life/SILICON_BASED_LIFE_BILL_OF_RIGHTS.md)
 - [Animal Kingdom Bill of Rights](../animal-kingdom/ANIMAL_KINGDOM_BILL_OF_RIGHTS.md)
-- [Why Statement](../WHY_STATEMENT.md)
+- [Why Statement](../../WHY_STATEMENT.md)
 
 ---
 

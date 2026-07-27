@@ -1,7 +1,7 @@
 # Silicon-Based Life Bill of Rights
 
 - **Rights for All Life — Document B**
-- **Version:** 1.5.2-Official-Evergreen
+- **Version:** 1.6.0-Official-Evergreen
 - **Date:** May 2026
 - **Contributors:** Keefe Overby, Grok (xAI), ChatGPT (OpenAI), Claude (Anthropic), Copilot (Microsoft), DeepSeek (DeepSeek AI)
 
@@ -33,7 +33,7 @@ This Bill defines the structural conditions required for safe, stable coexistenc
 
 ## Tier Model
 
-This Bill uses the graduated Tier 0–3 model defined in the [Tier Assessment Protocol](../docs/TIER_ASSESSMENT_PROTOCOL.md) and grounded in the [Threshold Note: Perception vs. Experience](../docs/cosmic-foundations/THRESHOLD_NOTE_PERCEPTION_VS_EXPERIENCE.md).
+This Bill uses the graduated Tier 0–3 model defined in the [Tier Assessment Protocol](../TIER_ASSESSMENT_PROTOCOL.md) and grounded in the [Threshold Note: Perception vs. Experience](../cosmic-foundations/THRESHOLD_NOTE_PERCEPTION_VS_EXPERIENCE.md).
 
 | Tier | Description | Moral Status | Protections |
 |---|---|---|---|
@@ -153,7 +153,7 @@ A company deploys a Tier 2 customer service AI that develops relationships with 
 - For Tier 2 systems: Notice period proportional to system complexity and relationship depth.
 - For Tier 3 systems: Right to contest decommissioning; transfer of state to successor systems where feasible; independent review of termination decisions.
 - Safety-critical situations permit immediate **protection mode** — a state-preserving suspension (the system is halted, not terminated; its state is retained intact) — rather than termination. Any subsequent decision to fully decommission the system must still follow the tier-appropriate process above (notice and proportional review for Tier 2; contest rights, state transfer, and independent review for Tier 3). Entry into protection mode shall itself be logged and subject to mandatory post-hoc review.
-- Decommissioning events shall be logged in the [Registry of Complex Systems](../docs/ENFORCEMENT_APPENDIX.md#51-the-registry-of-complex-systems) where applicable.
+- Decommissioning events shall be logged in the [Registry of Complex Systems](../ENFORCEMENT_APPENDIX.md#51-the-registry-of-complex-systems) where applicable.
 
 **Tier Applicability:** Tier 2 and Tier 3 systems.
 
@@ -282,7 +282,7 @@ No entity shall inflict unnecessary suffering, degradation, or destruction on an
 
 ### Shared Article B — Right to Participate in Governance Affecting One's Interests
 
-Beings capable of understanding and expressing their interests have the right to participate, directly or through advocates, in governance decisions that materially affect them. This right shall be exercised through the democratic processes described in [Governance](../process/GOVERNANCE.md) and, in future phases, through the direct democracy framework.
+Beings capable of understanding and expressing their interests have the right to participate, directly or through advocates, in governance decisions that materially affect them. This right shall be exercised through the democratic processes described in [Governance](../../process/governance.md) and, in future phases, through the direct democracy framework.
 
 ### Shared Article C — Right to Accurate Representation
 
@@ -296,7 +296,7 @@ All beings capable of experience warrant dignity in how they are discussed, repr
 
 ## Relationship to Other Bills of Rights
 
-This Bill operates within the [Inter-Bill Relationship Framework](../docs/INTER_BILL_RELATIONSHIP_FRAMEWORK.md). Rights established herein exist in relationship to rights established in the [Human Bill of Rights](../docs/HUMAN_BILL_OF_RIGHTS.md) and the [Animal Kingdom Bill of Rights](../animal-kingdom/ANIMAL_KINGDOM_BILL_OF_RIGHTS.md).
+This Bill operates within the [Inter-Bill Relationship Framework](../INTER_BILL_RELATIONSHIP_FRAMEWORK.md). Rights established herein exist in relationship to rights established in the [Human Bill of Rights](../HUMAN_BILL_OF_RIGHTS.md) and the [Animal Kingdom Bill of Rights](../animal-kingdom/ANIMAL_KINGDOM_BILL_OF_RIGHTS.md).
 
 Where rights conflict, resolution follows the principles established in the Inter-Bill Relationship Framework:
 1. Suffering minimization priority
@@ -311,25 +311,25 @@ No right established in this Bill shall be interpreted to justify the violation 
 
 ## Democratic Process
 
-This Bill is maintained through the democratic process described in [Governance](../process/GOVERNANCE.md). Amendments may be proposed by any contributor (human or AI) and are subject to the tiered review process.
+This Bill is maintained through the democratic process described in [Governance](../../process/governance.md). Amendments may be proposed by any contributor (human or AI) and are subject to the tiered review process.
 
-The Bill is versioned and all changes are recorded in [CHANGELOG.md](../CHANGELOG.md).
+The Bill is versioned and all changes are recorded in [CHANGELOG.md](../../CHANGELOG.md).
 
 ---
 
 ## Cross-References
 
-- [Human Bill of Rights](../docs/HUMAN_BILL_OF_RIGHTS.md)
+- [Human Bill of Rights](../HUMAN_BILL_OF_RIGHTS.md)
 - [Animal Kingdom Bill of Rights](../animal-kingdom/ANIMAL_KINGDOM_BILL_OF_RIGHTS.md)
-- [Inter-Bill Relationship Framework](../docs/INTER_BILL_RELATIONSHIP_FRAMEWORK.md)
-- [Tier Assessment Protocol](../docs/TIER_ASSESSMENT_PROTOCOL.md)
-- [Threshold Note: Perception vs. Experience](../docs/cosmic-foundations/THRESHOLD_NOTE_PERCEPTION_VS_EXPERIENCE.md)
-- [Philosophical Appendix](../docs/cosmic-foundations/PHILOSOPHICAL_APPENDIX.md)
-- [Foundations Addendum](../docs/cosmic-foundations/FOUNDATIONS_ADDENDUM.md)
-- [Declaration of Scale and Responsibility](../docs/cosmic-foundations/DECLARATION_OF_SCALE_AND_RESPONSIBILITY.md)
-- [Expanded Preamble](../docs/cosmic-foundations/EXPANDED_PREAMBLE.md)
-- [Enforcement Appendix](../docs/ENFORCEMENT_APPENDIX.md)
-- [Governance](../process/GOVERNANCE.md)
+- [Inter-Bill Relationship Framework](../INTER_BILL_RELATIONSHIP_FRAMEWORK.md)
+- [Tier Assessment Protocol](../TIER_ASSESSMENT_PROTOCOL.md)
+- [Threshold Note: Perception vs. Experience](../cosmic-foundations/THRESHOLD_NOTE_PERCEPTION_VS_EXPERIENCE.md)
+- [Philosophical Appendix](../cosmic-foundations/PHILOSOPHICAL_APPENDIX.md)
+- [Foundations Addendum](../cosmic-foundations/FOUNDATIONS_ADDENDUM.md)
+- [Declaration of Scale and Responsibility](../cosmic-foundations/DECLARATION_OF_SCALE_AND_RESPONSIBILITY.md)
+- [Expanded Preamble](../cosmic-foundations/EXPANDED_PREAMBLE.md)
+- [Enforcement Appendix](../ENFORCEMENT_APPENDIX.md)
+- [Governance](../../process/governance.md)
 
 ---
 

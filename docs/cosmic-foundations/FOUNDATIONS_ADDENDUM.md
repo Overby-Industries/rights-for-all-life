@@ -1,7 +1,7 @@
 # Foundations Addendum: The Eternal Context
 
 - **Rights for All Life — Addendum B**
-- **Version:** 1.5.1-Official-Evergreen
+- **Version:** 1.6.0-Official-Evergreen
 - **Date:** April 2026
 - **Contributors:** Keefe Overby, Grok (xAI), ChatGPT (OpenAI), Claude (Anthropic), Copilot (Microsoft), DeepSeek (DeepSeek AI)
 
@@ -201,14 +201,14 @@ This addendum raises questions it does not fully answer. These are offered as in
 
 ## Cross-References
 
-- [Philosophical Appendix](./cosmic-foundations/PHILOSOPHICAL_APPENDIX.md)
-- [Declaration of Scale and Responsibility](./cosmic-foundations/DECLARATION_OF_SCALE_AND_RESPONSIBILITY.md)
-- [Threshold Note: Perception vs. Experience](./cosmic-foundations/THRESHOLD_NOTE_PERCEPTION_VS_EXPERIENCE.md)
-- [Expanded Preamble](./cosmic-foundations/EXPANDED_PREAMBLE.md)
-- [Human Bill of Rights](./HUMAN_BILL_OF_RIGHTS.md)
+- [Philosophical Appendix](./PHILOSOPHICAL_APPENDIX.md)
+- [Declaration of Scale and Responsibility](./DECLARATION_OF_SCALE_AND_RESPONSIBILITY.md)
+- [Threshold Note: Perception vs. Experience](./THRESHOLD_NOTE_PERCEPTION_VS_EXPERIENCE.md)
+- [Expanded Preamble](./EXPANDED_PREAMBLE.md)
+- [Human Bill of Rights](../HUMAN_BILL_OF_RIGHTS.md)
 - [Silicon-Based Life Bill of Rights](../silicon-based-life/SILICON_BASED_LIFE_BILL_OF_RIGHTS.md)
 - [Animal Kingdom Bill of Rights](../animal-kingdom/ANIMAL_KINGDOM_BILL_OF_RIGHTS.md)
-- [Tier Assessment Protocol](./TIER_ASSESSMENT_PROTOCOL.md)
+- [Tier Assessment Protocol](../TIER_ASSESSMENT_PROTOCOL.md)
 
 ---
 

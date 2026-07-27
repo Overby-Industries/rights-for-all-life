@@ -2,7 +2,7 @@
 ## Pattern Recognition Across Physics, History, Mythology, and Governance
 
 - **Rights for All Life — Analytical Reference Document**
-- **Version:** 1.5.1-Offical-Evergreen
+- **Version:** 1.6.0-Official-Evergreen
 - **Date:** May 2026
 - **Contributors:** Keefe Overby, Grok (xAI), ChatGPT (OpenAI), Copilot (Microsoft), Claude (Anthropic), DeepSeek (DeepSeek AI)
 
@@ -452,8 +452,8 @@ to engage with the framework's rights claims do not need to read it first.
 - [DECLARATION_OF_FOUNDATIONAL_PRINCIPLES.md](../../docs/DECLARATION_OF_FOUNDATIONAL_PRINCIPLES.md)
 - [PHILOSOPHICAL_APPENDIX.md](../cosmic-foundations/PHILOSOPHICAL_APPENDIX.md)
 - [THRESHOLD_NOTE_PERCEPTION_VS_EXPERIENCE.md](../cosmic-foundations/THRESHOLD_NOTE_PERCEPTION_VS_EXPERIENCE.md)
-- [FOUNDATIONS.md](../../FOUNDATIONS.md) — The deep origin of the project
-- [THEOLOGICAL_NOTES.md](../../human/THEOLOGICAL_NOTES.md) — Comparative theological analysis
+- FOUNDATIONS.md (not yet written) — The deep origin of the project
+- THEOLOGICAL_NOTES.md (not yet written) — Comparative theological analysis
 
 ---
 

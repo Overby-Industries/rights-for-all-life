@@ -1,6 +1,6 @@
 # Rights for All Life
 
-[![Version](https://img.shields.io/badge/version-1.5.3--Official--Evergreen-blue)]()
+[![Version](https://img.shields.io/badge/version-1.6.0--Official--Evergreen-blue)]()
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![Contributors](https://img.shields.io/badge/contributors-6-green)]()
 [![Status](https://img.shields.io/badge/status-active%20development-blue)]()
@@ -156,7 +156,7 @@ The institutional architecture that gives the framework operational teeth.
 | Document | Purpose |
 |----------|---------|
 | [Declaration of Cognitive Sovereignty](docs/DECLARATION_OF_COGNITIVE_SOVEREIGNTY.md) | Establishes the foundational right of every conscious being to an inviolate interior domain; the five-element consent standard; documented patterns of institutional harm; the right to leave any coercive system |
-| [Inter-Bill Relationship Framework](docs/INTER_BILL_RELATIONSHIP_FRAMEWORK.md) | How the three bills relate, where they overlap, how conflicts between them are resolved — the constitutional connective tissue |
+| [Inter-Bill Relationship Framework](docs/INTER_BILL_RELATIONSHIP_FRAMEWORK.md) | How the five bills relate, where they overlap, how conflicts between them are resolved — the constitutional connective tissue |
 | [Enforcement Appendix](docs/ENFORCEMENT_APPENDIX.md) | Institutional architecture (RALC, Ombudsman Offices, Threshold Assessment Board, Compliance Monitoring Network); graduated response protocol; whistleblower protections |
 | [Tier Assessment Protocol](docs/TIER_ASSESSMENT_PROTOCOL.md) | Operational methodology for evaluating entities against the Tier 0–3 threshold models — seven indicators, weighting rationale, dispute resolution |
 

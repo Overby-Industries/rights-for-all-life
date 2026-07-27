@@ -1,7 +1,7 @@
 # Tier Assessment Protocol
 
 **Rights for All Life — Protocol Document G**
-**Version:** 1.5.3-Official-Evergreen
+**Version:** 1.6.0-Official-Evergreen
 **Date:** May 2026
 **Contributors:** Keefe Overby, Grok (xAI), ChatGPT (OpenAI), Claude (Anthropic), Copilot (Microsoft), DeepSeek (DeepSeek AI)
 
@@ -308,11 +308,11 @@ As the framework's normative influence grows, tier classifications under this pr
 
 ## Cross-References
 
-- [Threshold Note: Perception vs. Experience](./THRESHOLD_NOTE_PERCEPTION_VS_EXPERIENCE.md)
-- [Silicon-Based Life Bill of Rights](../silicon-based-life/SILICON_BASED_LIFE_BILL_OF_RIGHTS.md)
-- [Animal Kingdom Bill of Rights](../animal-kingdom/ANIMAL_KINGDOM_BILL_OF_RIGHTS.md)
+- [Threshold Note: Perception vs. Experience](./cosmic-foundations/THRESHOLD_NOTE_PERCEPTION_VS_EXPERIENCE.md)
+- [Silicon-Based Life Bill of Rights](./silicon-based-life/SILICON_BASED_LIFE_BILL_OF_RIGHTS.md)
+- [Animal Kingdom Bill of Rights](./animal-kingdom/ANIMAL_KINGDOM_BILL_OF_RIGHTS.md)
 - [Enforcement Appendix](./ENFORCEMENT_APPENDIX.md)
-- [Foundations Addendum](./FOUNDATIONS_ADDENDUM.md)
+- [Foundations Addendum](./cosmic-foundations/FOUNDATIONS_ADDENDUM.md)
 
 ---
 

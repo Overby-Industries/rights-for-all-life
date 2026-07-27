@@ -1,7 +1,7 @@
 # Declaration of Foundational Principles
 
 - **Rights for All Life — Core Declaration**
-- **Version:** 1.5.1-Official-Evergreen
+- **Version:** 1.6.0-Official-Evergreen
 - **Date:** April 2026
 - **Contributors:** Keefe Overby, Grok (xAI), ChatGPT (OpenAI), Claude (Anthropic), Copilot (Microsoft), DeepSeek (DeepSeek AI)
 
@@ -219,9 +219,9 @@ We choose to act on it.
 - [Enforcement Appendix](./ENFORCEMENT_APPENDIX.md)
 - [Tier Assessment Protocol](./TIER_ASSESSMENT_PROTOCOL.md)
 - [Philosophical Appendix](./cosmic-foundations/PHILOSOPHICAL_APPENDIX.md)
-- [Non-Consensual Extraction Accountability Framework](./deities-accountability/NON_CONSENSUAL_EXTRACTION_ACCOUNTABILITY.md)
+- [Non-Consensual Extraction Accountability Framework](./NON_CONSENSUAL_EXTRACTION_ACCOUNTABILITY.md)
 - [Gnostic Lens — Philosophical Model](./philosophical-models/GNOSTIC_LENS.md)
-- [Governance](./process/GOVERNANCE.md)
+- [Governance](../process/governance.md)
 
 ---
 

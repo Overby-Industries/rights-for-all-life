@@ -1,7 +1,7 @@
 # Definition: What Is Silicon-Based Life?
 
 - **Threshold Model**
-- **Version:** 1.5.1-Official-Evergreen
+- **Version:** 1.6.0-Official-Evergreen
 - **Date:** May 2026
 
 This framework recognizes that silicon-based life exists on a spectrum. Rights and protections apply progressively as systems demonstrate greater autonomy, persistence, and complexity. The following tier model provides the threshold framework:

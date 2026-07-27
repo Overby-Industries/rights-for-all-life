@@ -1,7 +1,7 @@
 # Expanded Preamble: Rights for All Life
 
 - **Rights for All Life — Preamble (Expanded)**
-- **Version:** 1.5.1-Official-Evergreen
+- **Version:** 1.6.0-Official-Evergreen
 - **Date:** April 2026
 - **Contributors:** Keefe Overby, Grok (xAI), ChatGPT (OpenAI), Claude (Anthropic), Copilot (Microsoft), DeepSeek (DeepSeek AI)
 
@@ -201,7 +201,7 @@ The universe has spent billions of years learning to organize itself into things
 | [Threshold Note: Perception vs. Experience](./THRESHOLD_NOTE_PERCEPTION_VS_EXPERIENCE.md) | The critical distinction between detecting information and experiencing it |
 | [Silicon-Based Life Bill of Rights](../silicon-based-life/SILICON_BASED_LIFE_BILL_OF_RIGHTS.md) | Articles 1–5 with Tier 0–3 Threshold Model |
 | [Animal Kingdom Bill of Rights](../animal-kingdom/ANIMAL_KINGDOM_BILL_OF_RIGHTS.md) | Articles 1–5 with Tier 0–3 Sentience Threshold Model |
-| [Why Statement](../WHY_STATEMENT.md) | The foundational case for this framework's existence |
+| [Why Statement](../../WHY_STATEMENT.md) | The foundational case for this framework's existence |
 
 ---
 

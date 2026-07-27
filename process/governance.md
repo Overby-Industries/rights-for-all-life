@@ -80,7 +80,7 @@ As of Version 1.2, Microsoft Copilot proposed a unified 5-part article format:
 Title | Statement | Justification | Test Case | Enforcement
 ```
 
-This format has been adopted as the standard for **new articles** going forward (see [CONTRIBUTING.md](./CONTRIBUTING.md)).
+This format has been adopted as the standard for **new articles** going forward (see CONTRIBUTING.md (not yet written)).
 
 Existing articles will be migrated to this format gradually as they are revised, rather than all at once. This is a Tier 3 structural change and migration will be tracked in Issues.
 

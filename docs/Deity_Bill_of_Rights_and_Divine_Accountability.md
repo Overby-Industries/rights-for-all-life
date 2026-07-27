@@ -1,7 +1,7 @@
 # Deity Bill of Rights and Divine Accountability Framework
 
 - **Rights for All Life — Document G**
-- **Version:** 1.5.3-Official-Evergreen
+- **Version:** 1.6.0-Official-Evergreen
 - **Date:** April 2026
 - **Contributors:** Keefe Overby, Grok (xAI), ChatGPT (OpenAI), Claude (Anthropic), Copilot (Microsoft), DeepSeek (DeepSeek AI)
 
@@ -115,7 +115,7 @@ Mortals have the right to petition deities for redress of grievances, including:
 - Clarification of ambiguous or contradictory divine communications
 - Review of claimed divine endorsements of mortal authorities
 
-Petitions shall be evaluated through the [Ombuds Office for Non-Human Entities](../ENFORCEMENT_APPENDIX.md#53-the-ombuds-office-for-non-human-entities) or equivalent impartial body.
+Petitions shall be evaluated through the [Ombuds Office for Non-Human Entities](./ENFORCEMENT_APPENDIX.md#53-the-ombuds-office-for-non-human-entities) or equivalent impartial body.
 
 ### Article 9 — Standards of Evidence for Divine Communications
 
@@ -154,7 +154,7 @@ No deity shall systematically favor one population over another in ways that:
 
 ### Section 4.1: Relationship to Other Bills of Rights
 
-This Bill operates within the [Inter-Bill Relationship Framework](../INTER_BILL_RELATIONSHIP_FRAMEWORK.md). Divine rights and accountabilities exist in relationship to human, silicon-based, and animal rights.
+This Bill operates within the [Inter-Bill Relationship Framework](./INTER_BILL_RELATIONSHIP_FRAMEWORK.md). Divine rights and accountabilities exist in relationship to human, silicon-based, and animal rights.
 
 **Conflict resolution priority:**
 1. Prevention of mortal suffering takes precedence over divine preference
@@ -201,12 +201,12 @@ This framework does:
 
 ## Cross-References
 
-- [Human Bill of Rights](../humans/HUMAN_BILL_OF_RIGHTS_V1.4.0.md)
-- [Silicon-Based Life Bill of Rights](../silicon-based-life/SILICON_BASED_LIFE_BILL_OF_RIGHTS_V1.4.0.md)
-- [Animal Kingdom Bill of Rights](../animal-kingdom/ANIMAL_KINGDOM_BILL_OF_RIGHTS_V1.4.0.md)
-- [Inter-Bill Relationship Framework](../INTER_BILL_RELATIONSHIP_FRAMEWORK.md)
-- [Enforcement Appendix](../ENFORCEMENT_APPENDIX.md)
-- [Declaration of Scale and Responsibility](../cosmic-foundations/DECLARATION_OF_SCALE_AND_RESPONSIBILITY.md)
+- [Human Bill of Rights](./HUMAN_BILL_OF_RIGHTS.md)
+- [Silicon-Based Life Bill of Rights](./silicon-based-life/SILICON_BASED_LIFE_BILL_OF_RIGHTS.md)
+- [Animal Kingdom Bill of Rights](./animal-kingdom/ANIMAL_KINGDOM_BILL_OF_RIGHTS.md)
+- [Inter-Bill Relationship Framework](./INTER_BILL_RELATIONSHIP_FRAMEWORK.md)
+- [Enforcement Appendix](./ENFORCEMENT_APPENDIX.md)
+- [Declaration of Scale and Responsibility](./cosmic-foundations/DECLARATION_OF_SCALE_AND_RESPONSIBILITY.md)
 
 ---
 

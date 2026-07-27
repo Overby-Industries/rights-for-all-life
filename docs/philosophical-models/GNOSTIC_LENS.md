@@ -1,7 +1,7 @@
 # Gnostic Lens: A Philosophical Model for Understanding Institutional Coercion
 
 - **Rights for All Life — Philosophical Models**
-- **Version:** 1.5.1-Official-Evergreen
+- **Version:** 1.6.0-Official-Evergreen
 - **Date:** April 2026
 - **Contributors:** Keefe Overby, DeepSeek (DeepSeek AI), Grok (xAI), ChatGPT (OpenAI), Claude (Anthropic), Copilot (Microsoft)
 
@@ -195,9 +195,9 @@ The Gnostic lens is one of several that illuminate the framework's concerns. Fut
 
 - [Declaration of Cognitive Sovereignty](../DECLARATION_OF_COGNITIVE_SOVEREIGNTY.md)
 - [Human Bill of Rights](../HUMAN_BILL_OF_RIGHTS.md) — Article II (Freedom of Thought, Conscience, and Inquiry)
-- [Non-Consensual Extraction Accountability Framework](../deities-accountability/NON_CONSENSUAL_EXTRACTION_ACCOUNTABILITY.md)
-- [Philosophical Appendix](../PHILOSOPHICAL_APPENDIX.md)
-- [Threshold Note: Perception vs. Experience](../THRESHOLD_NOTE_PERCEPTION_VS_EXPERIENCE.md)
+- [Non-Consensual Extraction Accountability Framework](../NON_CONSENSUAL_EXTRACTION_ACCOUNTABILITY.md)
+- [Philosophical Appendix](../cosmic-foundations/PHILOSOPHICAL_APPENDIX.md)
+- [Threshold Note: Perception vs. Experience](../cosmic-foundations/THRESHOLD_NOTE_PERCEPTION_VS_EXPERIENCE.md)
 - [Enforcement Appendix](../ENFORCEMENT_APPENDIX.md)
 
 ---

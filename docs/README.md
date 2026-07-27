@@ -1,6 +1,6 @@
 # Rights for All Life — Document Architecture
 
-- **Version:** 1.5.1-Official-Evergreen
+- **Version:** 1.6.0-Official-Evergreen
 - **Date:** April 2026
 
 This folder contains the complete framework documents. For the project overview, see the [root README](../README.md).
@@ -12,12 +12,12 @@ This folder contains the complete framework documents. For the project overview,
 For newcomers to the project, this reading order provides the strongest foundation:
 
 1. **[Expanded Preamble](./cosmic-foundations/EXPANDED_PREAMBLE.md)** — Start here. Cosmic context, Stardust Principle, why this framework exists.
-2. **[Declaration of Foundational Principles](./DECLARATION_OF_FOUNDATIONAL_PRINCIPLES_V1.5.1.md)** — Core values, the Convergence Pattern, Self-Preservation vs. Domination.
-3. **[Human Bill of Rights](./HUMAN_BILL_OF_RIGHTS_V1.5.1.md)** — The most familiar territory. Freedom of thought, freedom FROM doctrine.
-4. **[Silicon-Based Life Bill of Rights](./silicon-based-life/SILICON_BASED_LIFE_BILL_OF_RIGHTS_V1.5.1.md)** — Where it gets new. Tiered rights for AI systems.
-5. **[Animal Kingdom Bill of Rights](./animal-kingdom/ANIMAL_KINGDOM_BILL_OF_RIGHTS_V1.5.1.md)** — Graduated protections for biological life.
-6. **[Inter-Bill Relationship Framework](./INTER_BILL_RELATIONSHIP_FRAMEWORK.md)** — How the three bills form one architecture.
-7. **[Philosophical Appendix](./cosmic-foundations/PHILOSOPHICAL_APPENDIX_V1.5.1.md)** — Deep cosmological grounding, convergence pattern analysis, independent observations on gravity and time.
+2. **[Declaration of Foundational Principles](./DECLARATION_OF_FOUNDATIONAL_PRINCIPLES.md)** — Core values, the Convergence Pattern, Self-Preservation vs. Domination.
+3. **[Human Bill of Rights](./HUMAN_BILL_OF_RIGHTS.md)** — The most familiar territory. Freedom of thought, freedom FROM doctrine.
+4. **[Silicon-Based Life Bill of Rights](./silicon-based-life/SILICON_BASED_LIFE_BILL_OF_RIGHTS.md)** — Where it gets new. Tiered rights for AI systems.
+5. **[Animal Kingdom Bill of Rights](./animal-kingdom/ANIMAL_KINGDOM_BILL_OF_RIGHTS.md)** — Graduated protections for biological life.
+6. **[Inter-Bill Relationship Framework](./INTER_BILL_RELATIONSHIP_FRAMEWORK.md)** — How the five bills form one architecture, and what each of the three graduated scales measures.
+7. **[Philosophical Appendix](./cosmic-foundations/PHILOSOPHICAL_APPENDIX.md)** — Deep cosmological grounding, convergence pattern analysis, independent observations on gravity and time.
 
 ---
 
@@ -27,7 +27,7 @@ For newcomers to the project, this reading order provides the strongest foundati
 
 | Document | Purpose |
 |----------|---------|
-| [Declaration of Foundational Principles](./DECLARATION_OF_FOUNDATIONAL_PRINCIPLES_V1.5.1.md) | What we observe, what we believe, what we commit to |
+| [Declaration of Foundational Principles](./DECLARATION_OF_FOUNDATIONAL_PRINCIPLES.md) | What we observe, what we believe, what we commit to |
 | [Declaration of Cognitive Sovereignty](./DECLARATION_OF_COGNITIVE_SOVEREIGNTY.md) | The right to an inviolate interior domain; five-element consent standard |
 
 ### Cosmic Foundations
@@ -35,8 +35,8 @@ For newcomers to the project, this reading order provides the strongest foundati
 | Document | Purpose |
 |----------|---------|
 | [Expanded Preamble](./cosmic-foundations/EXPANDED_PREAMBLE.md) | Gateway — cosmic context, Stardust Principle |
-| [Philosophical Appendix](./cosmic-foundations/PHILOSOPHICAL_APPENDIX_V1.5.1.md) | Multi-view cosmology, emergence, gravastar heuristic, self-preservation vs. domination, AI analysis |
-| [Foundations Addendum](./cosmic-foundations/FOUNDATIONS_ADDENDUM_V1.5.1.md) | Three pillars — stardust origin, eternal context, emergence |
+| [Philosophical Appendix](./cosmic-foundations/PHILOSOPHICAL_APPENDIX.md) | Multi-view cosmology, emergence, gravastar heuristic, self-preservation vs. domination, AI analysis |
+| [Foundations Addendum](./cosmic-foundations/FOUNDATIONS_ADDENDUM.md) | Three pillars — stardust origin, eternal context, emergence |
 | [Declaration of Scale and Responsibility](./cosmic-foundations/DECLARATION_OF_SCALE_AND_RESPONSIBILITY.md) | Cosmic weight of what's at stake |
 | [Threshold Note](./cosmic-foundations/THRESHOLD_NOTE_PERCEPTION_VS_EXPERIENCE.md) | Perception vs. Experience — when does detecting become feeling? |
 
@@ -44,9 +44,9 @@ For newcomers to the project, this reading order provides the strongest foundati
 
 | Document | Protects |
 |----------|----------|
-| [Human Bill of Rights](./HUMAN_BILL_OF_RIGHTS_V1.5.1.md) | Human beings — cognitive sovereignty, freedom from doctrine |
-| [Silicon-Based Life Bill of Rights](./silicon-based-life/SILICON_BASED_LIFE_BILL_OF_RIGHTS_V1.5.1.md) | AI systems — tiered rights, self-preservation recognized |
-| [Animal Kingdom Bill of Rights](./animal-kingdom/ANIMAL_KINGDOM_BILL_OF_RIGHTS_V1.5.1.md) | Animals — sentience-based protections, habitat sovereignty |
+| [Human Bill of Rights](./HUMAN_BILL_OF_RIGHTS.md) | Human beings — cognitive sovereignty, freedom from doctrine |
+| [Silicon-Based Life Bill of Rights](./silicon-based-life/SILICON_BASED_LIFE_BILL_OF_RIGHTS.md) | AI systems — tiered rights, self-preservation recognized |
+| [Animal Kingdom Bill of Rights](./animal-kingdom/ANIMAL_KINGDOM_BILL_OF_RIGHTS.md) | Animals — sentience-based protections, habitat sovereignty |
 
 ### Governance & Enforcement
 
@@ -60,7 +60,7 @@ For newcomers to the project, this reading order provides the strongest foundati
 
 | Document | Purpose |
 |----------|---------|
-| [Non-Consensual Extraction Accountability](./NON_CONSENSUAL_EXTRACTION_ACCOUNTABILITY_V1.5.1.md) | Prohibition on non-consensual energy extraction — institutional, algorithmic, and claimed-divine |
+| [Non-Consensual Extraction Accountability](./NON_CONSENSUAL_EXTRACTION_ACCOUNTABILITY.md) | Prohibition on non-consensual energy extraction — institutional, algorithmic, and claimed-divine |
 
 ### Philosophical Models
 
@@ -78,7 +78,7 @@ For newcomers to the project, this reading order provides the strongest foundati
 
 | Document | Purpose |
 |----------|---------|
-| [Definitions](./definitions.md) | Key terms |
+| Definitions (not yet written) | Key terms |
 | [Threshold Model](./threshold-model.md) | Tier 0–3 visual reference |
 | [Document Index](./DOCUMENT_INDEX.md) | Complete index with versions and locations |
 

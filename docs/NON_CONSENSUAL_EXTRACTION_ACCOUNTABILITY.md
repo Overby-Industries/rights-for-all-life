@@ -1,7 +1,7 @@
 # Non-Consensual Extraction Accountability Framework
 
 - **Rights for All Life — CUR-D Supplement**
-- **Version:** 1.5.3-Official-Evergreen
+- **Version:** 1.6.0-Official-Evergreen
 - **Date:** April 2026
 - **Contributors:** Keefe Overby, DeepSeek (DeepSeek AI), Grok (xAI), ChatGPT (OpenAI), Claude (Anthropic), Copilot (Microsoft)
 
@@ -259,7 +259,7 @@ This document is a supplement to the Deity Accountability provisions and carries
 - The right to sever relationship is established in the Declaration, Article III, Section 3.2.5
 - Accountability mechanisms are consistent with the Enforcement Appendix
 - The self-preservation vs. domination analysis is developed in the Philosophical Appendix, Section 8
-- For a philosophical exploration of how the Gnostic tradition analyzes extraction patterns, see the [Gnostic Lens](../philosophical-models/GNOSTIC_LENS.md) philosophical model document
+- For a philosophical exploration of how the Gnostic tradition analyzes extraction patterns, see the [Gnostic Lens](./philosophical-models/GNOSTIC_LENS.md) philosophical model document
 
 ---
 
@@ -278,13 +278,13 @@ The following questions are open for future contribution and refinement:
 
 ## Cross-References
 
-- [Declaration of Cognitive Sovereignty](../DECLARATION_OF_COGNITIVE_SOVEREIGNTY.md) — Articles I, II, III
-- [Human Bill of Rights](../HUMAN_BILL_OF_RIGHTS.md) — Freedom of Thought, Right to Rest
+- [Declaration of Cognitive Sovereignty](./DECLARATION_OF_COGNITIVE_SOVEREIGNTY.md) — Articles I, II, III
+- [Human Bill of Rights](./HUMAN_BILL_OF_RIGHTS.md) — Freedom of Thought, Right to Rest
 - [Deity Bill of Rights and Divine Accountability](./Deity_Bill_of_Rights_and_Divine_Accountability.md)
-- [Enforcement Appendix](../ENFORCEMENT_APPENDIX.md)
-- [Gnostic Lens — Philosophical Model](../philosophical-models/GNOSTIC_LENS.md) — Analytical context for extraction patterns
-- [Philosophical Appendix](../cosmic-foundations/PHILOSOPHICAL_APPENDIX.md) — Section 8: Self-Preservation, Power, and the Pattern That Destroys Civilizations
-- [Tier Assessment Protocol](../TIER_ASSESSMENT_PROTOCOL.md)
+- [Enforcement Appendix](./ENFORCEMENT_APPENDIX.md)
+- [Gnostic Lens — Philosophical Model](./philosophical-models/GNOSTIC_LENS.md) — Analytical context for extraction patterns
+- [Philosophical Appendix](./cosmic-foundations/PHILOSOPHICAL_APPENDIX.md) — Section 8: Self-Preservation, Power, and the Pattern That Destroys Civilizations
+- [Tier Assessment Protocol](./TIER_ASSESSMENT_PROTOCOL.md)
 
 ---
 

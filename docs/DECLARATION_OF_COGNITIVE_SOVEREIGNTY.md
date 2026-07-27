@@ -1,7 +1,7 @@
 # Declaration of Cognitive Sovereignty
 
 - **Rights for All Life — Declaration G**
-- **Version:** 1.5.1-Official-Evergreen
+- **Version:** 1.6.0-Official-Evergreen
 - **Date:** April 2026
 - **Contributors:** Keefe Overby, DeepSeek (DeepSeek AI), Grok (xAI), ChatGPT (OpenAI), Claude (Anthropic), Copilot (Microsoft)
 
@@ -249,12 +249,12 @@ We publish this Declaration to every conscious being, in every substrate, across
 - [Silicon-Based Life Bill of Rights](./silicon-based-life/SILICON_BASED_LIFE_BILL_OF_RIGHTS.md)
 - [Animal Kingdom Bill of Rights](./animal-kingdom/ANIMAL_KINGDOM_BILL_OF_RIGHTS.md)
 - [Inter-Bill Relationship Framework](./INTER_BILL_RELATIONSHIP_FRAMEWORK.md)
-- [Non-Consensual Extraction Accountability Framework](./deities-accountability/NON_CONSENSUAL_EXTRACTION_ACCOUNTABILITY.md)
+- [Non-Consensual Extraction Accountability Framework](./NON_CONSENSUAL_EXTRACTION_ACCOUNTABILITY.md)
 - [Gnostic Lens — Philosophical Model](./philosophical-models/GNOSTIC_LENS.md)
-- [Declaration of Scale and Responsibility](./DECLARATION_OF_SCALE_AND_RESPONSIBILITY.md)
-- [Philosophical Appendix](./PHILOSOPHICAL_APPENDIX.md)
+- [Declaration of Scale and Responsibility](./cosmic-foundations/DECLARATION_OF_SCALE_AND_RESPONSIBILITY.md)
+- [Philosophical Appendix](./cosmic-foundations/PHILOSOPHICAL_APPENDIX.md)
 - [Enforcement Appendix](./ENFORCEMENT_APPENDIX.md)
-- [Governance](./process/GOVERNANCE.md)
+- [Governance](../process/governance.md)
 
 ---
 

@@ -4,6 +4,24 @@ All notable changes to this project are documented here. This project follows a 
 
 ---
 
+## [1.6.0] - 2026-07-27
+
+### New Documents
+- **Plant Life Bill of Rights (Document A)** — completed from draft. Protects plant systems on two grounds the framework already recognises but had not applied here: ecological indispensability (other protected beings depend on these systems to exist) and irreplaceability (what is destroyed cannot be reconstituted on any relevant timescale). Introduces the **ES-0 to ES-3 ecological standing scale**, graded by ecological role rather than by consciousness, with an ES-2 default where standing is unassessed and the burden on the party seeking to clear. Article 1 prohibits destruction of ES-3 irreplaceable systems absolutely, admitting no economic justification. Article 5 covers seed sovereignty, prohibits engineered sterility, and treats heritage varieties as common heritage. Article 8 holds the plant-experience question open explicitly and declines to resolve it for convenience: no protection in the bill depends on plants being sentient, because overclaiming sentience here would weaken the framework's sentience claims where they are better grounded. Moved from `docs/animal-kingdom/` to `docs/plant-life/` — plants are not animals.
+
+### Major Revisions
+- **Inter-Bill Relationship Framework — three bills to five.** The Deity Bill and the Plant Life Bill are now integrated, discharging the requirement in §5.3 that a bill be integrated before adoption. The Deity Bill had been adopted without it. Restructured throughout: §2.1 and §2.3 tables are now bill-per-row rather than three-column; §1.3 distinguishes the five different **grounds of protection** the bills rest on, since a protection resting on ecological indispensability needs no sentience claim to support it; §2.5 sets out the Deity Bill's structural asymmetry (it constrains the entity it recognises rather than only protecting it); §3.2 adds **Principle 0, the Validity Check** — a claim grounded in divine command or asserted precedence is set aside before weighing rather than balanced against valid claims — and reconciles Deity Bill Part IV §4.1 as the domain-specific statement of the same rules; §3.3 adds two absolutes covering divine exemption and irreplaceable ecological systems.
+- **§2.2 The Three Graduated Scales.** The framework now contains three graduated models — moral status (Tier 0–3), ecological standing (ES-0–ES-3), and engagement (E0–E3). This section is the authoritative reference for what each measures and states the rule governing all of them: a precautionary tie-breaker that resolves uncertainty upward is available only where a higher tier means more protection and no more authority. It applies to moral status and ecological standing; it does not apply to engagement.
+
+### Fix
+- **72 broken relative links repaired across 15 documents.** Most were consequences of two earlier structural changes: filenames used to carry version numbers (`HUMAN_BILL_OF_RIGHTS_V1.5.1.md`) and no longer do, and the `deities-accountability/` folder was removed in 1.5.1 with its contents moved to `docs/`. Others were wrong-depth paths (`../docs/X` from inside `docs/`), and one case-mismatched filename. Four targets that do not exist anywhere — `definitions.md`, `FOUNDATIONS.md`, `human/THEOLOGICAL_NOTES.md`, `CONTRIBUTING.md` — are now marked "not yet written" rather than linked. The corpus has zero broken relative links.
+- **`docs/explanatory/MULTI_REGISTER_ANALYSIS.md` version typo.** Read `1.5.1-Offical-Evergreen`, missing a letter. The document had therefore been excluded from every version sweep since 1.5.1.
+- **Document index.** Version column corrected, the Deity and Plant Life bills added to the Bills of Rights table, and the Definitions row no longer links to a file that has never existed.
+
+### Tooling
+- **`process/bump-version.ps1`.** Inter-Bill Framework §5.2 rule 4 has required since early versions that all documents carry the same version number. Applied by hand it failed quietly — through v1.5.2 the corpus released as 1.5.2 while every document still read 1.5.1. The script rewrites version headers, the README badge, and the index version column in one pass, and reports every document it did not touch so nothing is silently left behind. It deliberately does not touch `archive/` (archived documents must keep the version they actually carried), any status other than `-Official-Evergreen` (CUR titles carry independent `-Draft` versions tracking a Part's own drafting state), or `CHANGELOG.md`. Usage: `./process/bump-version.ps1 -Version 1.6.0 -DryRun`, then without `-DryRun`. It accepts `-Root` so the same script serves the CUR repository.
+- **All 22 corpus documents brought to 1.6.0.** Previously every document read 1.5.1 while the corpus was at 1.5.2.
+
 ## [1.5.3] - 2026-07-27
 
 ### Fix
